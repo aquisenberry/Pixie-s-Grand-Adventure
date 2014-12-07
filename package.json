@@ -5,7 +5,7 @@
   "main": "index.js",
   "private": true,
   "dependencies": {
-    "splatjs": "^2.3.0"
+    "splatjs": "^3.0.0"
   },
   "devDependencies": {
     "browserify": "^4.1.8",
@@ -14,7 +14,11 @@
   "scripts": {
     "lint-js": "bash -c \"jshint game.js\"",
     "build-js": "browserify game.js -o index.js",
-    "build": "npm run lint-js && npm run build-js"
+    "build": "npm run lint-js && npm run build-js",
+
+    "lintle-js": "bash -c \"jshint levelEditor.js\"",
+    "buildle-js": "browserify levelEditor.js -o le.js",
+    "buildle": "npm run lintle-js && npm run buildle-js"
   },
   "author": "Eric Lathrop <eric@ericlathrop.com> (http://ericlathrop.com)",
   "license": "MIT",
