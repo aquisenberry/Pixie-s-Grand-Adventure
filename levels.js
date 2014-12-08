@@ -3549,186 +3549,6 @@ module.exports = [
             },
             {
                 "type": "darkTile",
-                "x": 648,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 656,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 328,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 672,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 360,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 688,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 696,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 704,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 712,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 720,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 40,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 736,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 744,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 752,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 760,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 64,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 72,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 80,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 88,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 96,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 104,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 112,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 424,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 432,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 680,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 728,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 120,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 128,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 136,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 144,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 152,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 160,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 168,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 176,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 184,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
-                "x": 192,
-                "y": 640
-            },
-            {
-                "type": "darkTile",
                 "x": 200,
                 "y": 640
             },
@@ -4028,153 +3848,188 @@ module.exports = [
                 "y": 640
             },
             {
-                "type": "brightTile",
-                "x": 616,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 272,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 136,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 368,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 64,
-                "y": 632
+                "type": "darkTile",
+                "x": 648,
+                "y": 640
             },
             {
                 "type": "darkTile",
-                "x": 784,
-                "y": 632
+                "x": 656,
+                "y": 640
             },
             {
-                "type": "brightTile",
-                "x": 472,
-                "y": 632
+                "type": "darkTile",
+                "x": 328,
+                "y": 640
             },
             {
-                "type": "brightTile",
-                "x": 152,
-                "y": 632
+                "type": "darkTile",
+                "x": 672,
+                "y": 640
             },
             {
-                "type": "brightTile",
-                "x": 240,
-                "y": 632
+                "type": "darkTile",
+                "x": 360,
+                "y": 640
             },
             {
-                "type": "brightTile",
-                "x": 312,
-                "y": 632
+                "type": "darkTile",
+                "x": 688,
+                "y": 640
             },
             {
-                "type": "brightTile",
-                "x": 320,
-                "y": 632
+                "type": "darkTile",
+                "x": 696,
+                "y": 640
             },
             {
-                "type": "brightTile",
-                "x": 384,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 192,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 496,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 512,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
+                "type": "darkTile",
                 "x": 704,
-                "y": 632
+                "y": 640
             },
             {
-                "type": "brightTile",
-                "x": 456,
-                "y": 632
+                "type": "darkTile",
+                "x": 712,
+                "y": 640
             },
             {
-                "type": "brightTile",
+                "type": "darkTile",
+                "x": 720,
+                "y": 640
+            },
+            {
+                "type": "darkTile",
+                "x": 40,
+                "y": 640
+            },
+            {
+                "type": "darkTile",
+                "x": 736,
+                "y": 640
+            },
+            {
+                "type": "darkTile",
                 "x": 744,
-                "y": 632
+                "y": 640
             },
             {
-                "type": "brightTile",
-                "x": 624,
-                "y": 632
+                "type": "darkTile",
+                "x": 752,
+                "y": 640
             },
             {
-                "type": "brightTile",
-                "x": 344,
-                "y": 632
+                "type": "darkTile",
+                "x": 760,
+                "y": 640
             },
             {
-                "type": "brightTile",
-                "x": 544,
-                "y": 632
+                "type": "darkTile",
+                "x": 64,
+                "y": 640
             },
             {
-                "type": "brightTile",
-                "x": 288,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 128,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 296,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 568,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 224,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 728,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
+                "type": "darkTile",
                 "x": 72,
-                "y": 632
+                "y": 640
+            },
+            {
+                "type": "darkTile",
+                "x": 80,
+                "y": 640
+            },
+            {
+                "type": "darkTile",
+                "x": 88,
+                "y": 640
+            },
+            {
+                "type": "darkTile",
+                "x": 96,
+                "y": 640
+            },
+            {
+                "type": "darkTile",
+                "x": 104,
+                "y": 640
+            },
+            {
+                "type": "darkTile",
+                "x": 112,
+                "y": 640
+            },
+            {
+                "type": "darkTile",
+                "x": 424,
+                "y": 640
+            },
+            {
+                "type": "darkTile",
+                "x": 432,
+                "y": 640
+            },
+            {
+                "type": "darkTile",
+                "x": 680,
+                "y": 640
+            },
+            {
+                "type": "darkTile",
+                "x": 728,
+                "y": 640
+            },
+            {
+                "type": "darkTile",
+                "x": 120,
+                "y": 640
+            },
+            {
+                "type": "darkTile",
+                "x": 128,
+                "y": 640
+            },
+            {
+                "type": "darkTile",
+                "x": 136,
+                "y": 640
+            },
+            {
+                "type": "darkTile",
+                "x": 144,
+                "y": 640
+            },
+            {
+                "type": "darkTile",
+                "x": 152,
+                "y": 640
+            },
+            {
+                "type": "darkTile",
+                "x": 160,
+                "y": 640
+            },
+            {
+                "type": "darkTile",
+                "x": 168,
+                "y": 640
+            },
+            {
+                "type": "darkTile",
+                "x": 176,
+                "y": 640
+            },
+            {
+                "type": "darkTile",
+                "x": 184,
+                "y": 640
+            },
+            {
+                "type": "darkTile",
+                "x": 192,
+                "y": 640
             },
             {
                 "type": "brightTile",
                 "x": 632,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 200,
                 "y": 632
             },
             {
@@ -4184,12 +4039,7 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 144,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 376,
+                "x": 608,
                 "y": 632
             },
             {
@@ -4199,27 +4049,7 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 352,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 216,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 640,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 688,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 768,
+                "x": 592,
                 "y": 632
             },
             {
@@ -4229,22 +4059,27 @@ module.exports = [
             },
             {
                 "type": "brightTile",
+                "x": 448,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
                 "x": 280,
                 "y": 632
             },
             {
                 "type": "brightTile",
-                "x": 304,
+                "x": 232,
                 "y": 632
             },
             {
                 "type": "brightTile",
-                "x": 400,
+                "x": 768,
                 "y": 632
             },
             {
-                "type": "darkTile",
-                "x": 16,
+                "type": "brightTile",
+                "x": 416,
                 "y": 632
             },
             {
@@ -4254,57 +4089,27 @@ module.exports = [
             },
             {
                 "type": "brightTile",
+                "x": 304,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
                 "x": 40,
                 "y": 632
             },
             {
-                "type": "brightTile",
-                "x": 608,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 432,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 592,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 680,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 448,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 88,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 440,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 408,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 560,
-                "y": 632
-            },
-            {
                 "type": "darkTile",
-                "x": 776,
+                "x": 16,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 168,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 224,
                 "y": 632
             },
             {
@@ -4314,7 +4119,7 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 488,
+                "x": 72,
                 "y": 632
             },
             {
@@ -4324,7 +4129,27 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 232,
+                "x": 688,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 400,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 88,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 216,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 720,
                 "y": 632
             },
             {
@@ -4334,7 +4159,7 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 416,
+                "x": 376,
                 "y": 632
             },
             {
@@ -4344,7 +4169,7 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 528,
+                "x": 352,
                 "y": 632
             },
             {
@@ -4353,18 +4178,33 @@ module.exports = [
                 "y": 632
             },
             {
-                "type": "brightTile",
-                "x": 648,
+                "type": "darkTile",
+                "x": 776,
                 "y": 632
             },
             {
                 "type": "brightTile",
-                "x": 168,
+                "x": 528,
                 "y": 632
             },
             {
                 "type": "brightTile",
-                "x": 576,
+                "x": 744,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 488,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 704,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 384,
                 "y": 632
             },
             {
@@ -4374,32 +4214,12 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 672,
+                "x": 344,
                 "y": 632
             },
             {
                 "type": "brightTile",
-                "x": 248,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 184,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 264,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 80,
+                "x": 496,
                 "y": 632
             },
             {
@@ -4409,17 +4229,87 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 360,
+                "x": 368,
                 "y": 632
             },
             {
                 "type": "brightTile",
-                "x": 176,
+                "x": 80,
                 "y": 632
             },
             {
                 "type": "brightTile",
-                "x": 712,
+                "x": 752,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 184,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 648,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 640,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 680,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 432,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 264,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 440,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 736,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 576,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 208,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 96,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 584,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 392,
                 "y": 632
             },
             {
@@ -4429,32 +4319,12 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 736,
+                "x": 504,
                 "y": 632
             },
             {
                 "type": "brightTile",
-                "x": 560,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 208,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 696,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 96,
-                "y": 632
-            },
-            {
-                "type": "brightTile",
-                "x": 120,
+                "x": 176,
                 "y": 632
             },
             {
@@ -4464,12 +4334,52 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 752,
+                "x": 424,
                 "y": 632
             },
             {
                 "type": "brightTile",
-                "x": 760,
+                "x": 616,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 464,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 272,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 624,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 136,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 712,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 360,
                 "y": 632
             },
             {
@@ -4479,22 +4389,42 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 392,
+                "x": 64,
                 "y": 632
             },
             {
                 "type": "brightTile",
-                "x": 424,
+                "x": 560,
                 "y": 632
             },
             {
                 "type": "brightTile",
-                "x": 504,
+                "x": 472,
                 "y": 632
             },
             {
                 "type": "brightTile",
-                "x": 464,
+                "x": 120,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 696,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 760,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 408,
                 "y": 632
             },
             {
@@ -4503,13 +4433,18 @@ module.exports = [
                 "y": 632
             },
             {
-                "type": "brightTile",
-                "x": 720,
+                "type": "darkTile",
+                "x": 784,
                 "y": 632
             },
             {
                 "type": "brightTile",
-                "x": 584,
+                "x": 320,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
                 "y": 632
             },
             {
@@ -4519,23 +4454,73 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 112,
+                "x": 128,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 312,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 560,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 544,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 200,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 152,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 144,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 568,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 456,
+                "y": 632
+            },
+            {
+                "type": "brightTile",
+                "x": 728,
                 "y": 632
             },
             {
                 "type": "brightTile",
                 "x": 512,
-                "y": 624
-            },
-            {
-                "type": "brightTile",
-                "x": 544,
-                "y": 624
-            },
-            {
-                "type": "brightTile",
-                "x": 736,
-                "y": 624
+                "y": 632
             },
             {
                 "type": "brightTile",
@@ -4543,18 +4528,13 @@ module.exports = [
                 "y": 624
             },
             {
-                "type": "brightTile",
-                "x": 504,
+                "type": "darkTile",
+                "x": 8,
                 "y": 624
             },
             {
                 "type": "brightTile",
-                "x": 520,
-                "y": 624
-            },
-            {
-                "type": "brightTile",
-                "x": 552,
+                "x": 736,
                 "y": 624
             },
             {
@@ -4564,21 +4544,6 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 720,
-                "y": 624
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 624
-            },
-            {
-                "type": "brightTile",
-                "x": 744,
-                "y": 624
-            },
-            {
-                "type": "brightTile",
                 "x": 560,
                 "y": 624
             },
@@ -4589,17 +4554,47 @@ module.exports = [
             },
             {
                 "type": "brightTile",
+                "x": 504,
+                "y": 624
+            },
+            {
+                "type": "brightTile",
+                "x": 728,
+                "y": 624
+            },
+            {
+                "type": "brightTile",
+                "x": 552,
+                "y": 624
+            },
+            {
+                "type": "brightTile",
+                "x": 512,
+                "y": 624
+            },
+            {
+                "type": "brightTile",
+                "x": 520,
+                "y": 624
+            },
+            {
+                "type": "brightTile",
+                "x": 744,
+                "y": 624
+            },
+            {
+                "type": "brightTile",
+                "x": 720,
+                "y": 624
+            },
+            {
+                "type": "brightTile",
                 "x": 536,
                 "y": 624
             },
             {
                 "type": "darkTile",
                 "x": 776,
-                "y": 624
-            },
-            {
-                "type": "brightTile",
-                "x": 496,
                 "y": 624
             },
             {
@@ -4609,37 +4604,22 @@ module.exports = [
             },
             {
                 "type": "darkTile",
-                "x": 8,
-                "y": 624
-            },
-            {
-                "type": "trigger",
-                "x": 760,
-                "y": 616
-            },
-            {
-                "type": "brightTile",
-                "x": 728,
-                "y": 624
-            },
-            {
-                "type": "brightTile",
-                "x": 720,
-                "y": 616
-            },
-            {
-                "type": "darkTile",
                 "x": 784,
-                "y": 616
+                "y": 624
             },
             {
                 "type": "brightTile",
-                "x": 736,
-                "y": 616
+                "x": 496,
+                "y": 624
             },
             {
-                "type": "darkTile",
-                "x": 8,
+                "type": "brightTile",
+                "x": 544,
+                "y": 624
+            },
+            {
+                "type": "brightTile",
+                "x": 504,
                 "y": 616
             },
             {
@@ -4648,53 +4628,13 @@ module.exports = [
                 "y": 616
             },
             {
-                "type": "brightTile",
-                "x": 536,
+                "type": "darkTile",
+                "x": 8,
                 "y": 616
             },
             {
                 "type": "brightTile",
                 "x": 512,
-                "y": 616
-            },
-            {
-                "type": "brightTile",
-                "x": 560,
-                "y": 616
-            },
-            {
-                "type": "brightTile",
-                "x": 544,
-                "y": 616
-            },
-            {
-                "type": "brightTile",
-                "x": 552,
-                "y": 616
-            },
-            {
-                "type": "brightTile",
-                "x": 528,
-                "y": 616
-            },
-            {
-                "type": "brightTile",
-                "x": 744,
-                "y": 616
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 616
-            },
-            {
-                "type": "brightTile",
-                "x": 520,
-                "y": 616
-            },
-            {
-                "type": "brightTile",
-                "x": 504,
                 "y": 616
             },
             {
@@ -4704,7 +4644,112 @@ module.exports = [
             },
             {
                 "type": "brightTile",
+                "x": 520,
+                "y": 616
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 616
+            },
+            {
+                "type": "brightTile",
+                "x": 552,
+                "y": 616
+            },
+            {
+                "type": "brightTile",
+                "x": 560,
+                "y": 616
+            },
+            {
+                "type": "brightTile",
+                "x": 528,
+                "y": 616
+            },
+            {
+                "type": "brightTile",
                 "x": 736,
+                "y": 616
+            },
+            {
+                "type": "trigger",
+                "x": 760,
+                "y": 616
+            },
+            {
+                "type": "brightTile",
+                "x": 744,
+                "y": 616
+            },
+            {
+                "type": "brightTile",
+                "x": 720,
+                "y": 616
+            },
+            {
+                "type": "brightTile",
+                "x": 536,
+                "y": 616
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 616
+            },
+            {
+                "type": "brightTile",
+                "x": 544,
+                "y": 616
+            },
+            {
+                "type": "brightTile",
+                "x": 584,
+                "y": 608
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 608
+            },
+            {
+                "type": "brightTile",
+                "x": 624,
+                "y": 608
+            },
+            {
+                "type": "brightTile",
+                "x": 640,
+                "y": 608
+            },
+            {
+                "type": "brightTile",
+                "x": 552,
+                "y": 608
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 608
+            },
+            {
+                "type": "brightTile",
+                "x": 744,
+                "y": 608
+            },
+            {
+                "type": "brightTile",
+                "x": 632,
+                "y": 608
+            },
+            {
+                "type": "brightTile",
+                "x": 728,
+                "y": 608
+            },
+            {
+                "type": "brightTile",
+                "x": 576,
                 "y": 608
             },
             {
@@ -4714,42 +4759,7 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 584,
-                "y": 608
-            },
-            {
-                "type": "brightTile",
-                "x": 640,
-                "y": 608
-            },
-            {
-                "type": "brightTile",
-                "x": 552,
-                "y": 608
-            },
-            {
-                "type": "brightTile",
-                "x": 592,
-                "y": 608
-            },
-            {
-                "type": "brightTile",
-                "x": 544,
-                "y": 608
-            },
-            {
-                "type": "brightTile",
-                "x": 560,
-                "y": 608
-            },
-            {
-                "type": "brightTile",
-                "x": 536,
-                "y": 608
-            },
-            {
-                "type": "brightTile",
-                "x": 648,
+                "x": 616,
                 "y": 608
             },
             {
@@ -4759,37 +4769,32 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 624,
-                "y": 608
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 608
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
+                "x": 560,
                 "y": 608
             },
             {
                 "type": "brightTile",
-                "x": 616,
+                "x": 544,
+                "y": 608
+            },
+            {
+                "type": "brightTile",
+                "x": 592,
+                "y": 608
+            },
+            {
+                "type": "brightTile",
+                "x": 736,
+                "y": 608
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
                 "y": 608
             },
             {
                 "type": "brightTile",
                 "x": 720,
-                "y": 608
-            },
-            {
-                "type": "brightTile",
-                "x": 576,
-                "y": 608
-            },
-            {
-                "type": "brightTile",
-                "x": 528,
                 "y": 608
             },
             {
@@ -4799,7 +4804,12 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 632,
+                "x": 648,
+                "y": 608
+            },
+            {
+                "type": "brightTile",
+                "x": 528,
                 "y": 608
             },
             {
@@ -4809,87 +4819,12 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 728,
-                "y": 608
-            },
-            {
-                "type": "brightTile",
-                "x": 744,
+                "x": 536,
                 "y": 608
             },
             {
                 "type": "darkTile",
-                "x": 16,
-                "y": 608
-            },
-            {
-                "type": "brightTile",
-                "x": 640,
-                "y": 600
-            },
-            {
-                "type": "brightTile",
-                "x": 744,
-                "y": 600
-            },
-            {
-                "type": "brightTile",
-                "x": 720,
-                "y": 600
-            },
-            {
-                "type": "brightTile",
-                "x": 584,
-                "y": 600
-            },
-            {
-                "type": "brightTile",
-                "x": 576,
-                "y": 600
-            },
-            {
-                "type": "brightTile",
-                "x": 560,
-                "y": 600
-            },
-            {
-                "type": "brightTile",
-                "x": 616,
-                "y": 600
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 600
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 600
-            },
-            {
-                "type": "brightTile",
-                "x": 728,
-                "y": 600
-            },
-            {
-                "type": "brightTile",
-                "x": 624,
-                "y": 600
-            },
-            {
-                "type": "brightTile",
-                "x": 656,
-                "y": 600
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
-                "y": 600
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
+                "x": 784,
                 "y": 600
             },
             {
@@ -4899,22 +4834,57 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 632,
+                "x": 608,
                 "y": 600
             },
             {
                 "type": "brightTile",
-                "x": 568,
+                "x": 640,
+                "y": 600
+            },
+            {
+                "type": "brightTile",
+                "x": 600,
+                "y": 600
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 600
+            },
+            {
+                "type": "brightTile",
+                "x": 624,
+                "y": 600
+            },
+            {
+                "type": "brightTile",
+                "x": 576,
+                "y": 600
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 600
+            },
+            {
+                "type": "brightTile",
+                "x": 560,
+                "y": 600
+            },
+            {
+                "type": "brightTile",
+                "x": 728,
+                "y": 600
+            },
+            {
+                "type": "brightTile",
+                "x": 552,
                 "y": 600
             },
             {
                 "type": "brightTile",
                 "x": 736,
-                "y": 600
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
                 "y": 600
             },
             {
@@ -4924,12 +4894,47 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 608,
+                "x": 632,
                 "y": 600
             },
             {
                 "type": "brightTile",
-                "x": 600,
+                "x": 744,
+                "y": 600
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 600
+            },
+            {
+                "type": "brightTile",
+                "x": 584,
+                "y": 600
+            },
+            {
+                "type": "brightTile",
+                "x": 616,
+                "y": 600
+            },
+            {
+                "type": "brightTile",
+                "x": 656,
+                "y": 600
+            },
+            {
+                "type": "brightTile",
+                "x": 568,
+                "y": 600
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 600
+            },
+            {
+                "type": "brightTile",
+                "x": 720,
                 "y": 600
             },
             {
@@ -4939,17 +4944,17 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 552,
-                "y": 600
-            },
-            {
-                "type": "brightTile",
-                "x": 712,
+                "x": 104,
                 "y": 592
             },
             {
                 "type": "brightTile",
-                "x": 640,
+                "x": 608,
+                "y": 592
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
                 "y": 592
             },
             {
@@ -4959,142 +4964,7 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 96,
-                "y": 592
-            },
-            {
-                "type": "brightTile",
-                "x": 736,
-                "y": 592
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 592
-            },
-            {
-                "type": "brightTile",
-                "x": 656,
-                "y": 592
-            },
-            {
-                "type": "brightTile",
-                "x": 64,
-                "y": 592
-            },
-            {
-                "type": "brightTile",
-                "x": 744,
-                "y": 592
-            },
-            {
-                "type": "brightTile",
-                "x": 664,
-                "y": 592
-            },
-            {
-                "type": "brightTile",
-                "x": 80,
-                "y": 592
-            },
-            {
-                "type": "brightTile",
-                "x": 88,
-                "y": 592
-            },
-            {
-                "type": "brightTile",
-                "x": 648,
-                "y": 592
-            },
-            {
-                "type": "brightTile",
-                "x": 128,
-                "y": 592
-            },
-            {
-                "type": "brightTile",
-                "x": 104,
-                "y": 592
-            },
-            {
-                "type": "brightTile",
                 "x": 672,
-                "y": 592
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 592
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 592
-            },
-            {
-                "type": "brightTile",
-                "x": 720,
-                "y": 592
-            },
-            {
-                "type": "brightTile",
-                "x": 704,
-                "y": 592
-            },
-            {
-                "type": "brightTile",
-                "x": 728,
-                "y": 592
-            },
-            {
-                "type": "brightTile",
-                "x": 680,
-                "y": 592
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 592
-            },
-            {
-                "type": "brightTile",
-                "x": 688,
-                "y": 592
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 592
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 592
-            },
-            {
-                "type": "brightTile",
-                "x": 696,
-                "y": 592
-            },
-            {
-                "type": "brightTile",
-                "x": 632,
-                "y": 592
-            },
-            {
-                "type": "brightTile",
-                "x": 624,
-                "y": 592
-            },
-            {
-                "type": "brightTile",
-                "x": 616,
-                "y": 592
-            },
-            {
-                "type": "brightTile",
-                "x": 608,
                 "y": 592
             },
             {
@@ -5104,8 +4974,163 @@ module.exports = [
             },
             {
                 "type": "brightTile",
+                "x": 88,
+                "y": 592
+            },
+            {
+                "type": "brightTile",
+                "x": 712,
+                "y": 592
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 592
+            },
+            {
+                "type": "brightTile",
+                "x": 720,
+                "y": 592
+            },
+            {
+                "type": "brightTile",
+                "x": 744,
+                "y": 592
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 592
+            },
+            {
+                "type": "brightTile",
+                "x": 64,
+                "y": 592
+            },
+            {
+                "type": "brightTile",
+                "x": 632,
+                "y": 592
+            },
+            {
+                "type": "brightTile",
+                "x": 696,
+                "y": 592
+            },
+            {
+                "type": "brightTile",
+                "x": 80,
+                "y": 592
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 592
+            },
+            {
+                "type": "brightTile",
+                "x": 680,
+                "y": 592
+            },
+            {
+                "type": "brightTile",
+                "x": 736,
+                "y": 592
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 592
+            },
+            {
+                "type": "brightTile",
+                "x": 624,
+                "y": 592
+            },
+            {
+                "type": "brightTile",
+                "x": 704,
+                "y": 592
+            },
+            {
+                "type": "brightTile",
+                "x": 96,
+                "y": 592
+            },
+            {
+                "type": "brightTile",
+                "x": 648,
+                "y": 592
+            },
+            {
+                "type": "brightTile",
+                "x": 688,
+                "y": 592
+            },
+            {
+                "type": "brightTile",
                 "x": 112,
                 "y": 592
+            },
+            {
+                "type": "brightTile",
+                "x": 656,
+                "y": 592
+            },
+            {
+                "type": "brightTile",
+                "x": 728,
+                "y": 592
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 592
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 592
+            },
+            {
+                "type": "brightTile",
+                "x": 616,
+                "y": 592
+            },
+            {
+                "type": "brightTile",
+                "x": 640,
+                "y": 592
+            },
+            {
+                "type": "brightTile",
+                "x": 120,
+                "y": 584
+            },
+            {
+                "type": "brightTile",
+                "x": 688,
+                "y": 584
+            },
+            {
+                "type": "brightTile",
+                "x": 696,
+                "y": 584
+            },
+            {
+                "type": "brightTile",
+                "x": 728,
+                "y": 584
+            },
+            {
+                "type": "brightTile",
+                "x": 80,
+                "y": 584
+            },
+            {
+                "type": "brightTile",
+                "x": 656,
+                "y": 584
             },
             {
                 "type": "brightTile",
@@ -5119,107 +5144,7 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 128,
-                "y": 584
-            },
-            {
-                "type": "brightTile",
-                "x": 680,
-                "y": 584
-            },
-            {
-                "type": "brightTile",
-                "x": 112,
-                "y": 584
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 584
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 584
-            },
-            {
-                "type": "brightTile",
-                "x": 96,
-                "y": 584
-            },
-            {
-                "type": "brightTile",
-                "x": 696,
-                "y": 584
-            },
-            {
-                "type": "brightTile",
-                "x": 80,
-                "y": 584
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 584
-            },
-            {
-                "type": "brightTile",
-                "x": 64,
-                "y": 584
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 584
-            },
-            {
-                "type": "brightTile",
-                "x": 744,
-                "y": 584
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 584
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
-                "y": 584
-            },
-            {
-                "type": "brightTile",
-                "x": 656,
-                "y": 584
-            },
-            {
-                "type": "brightTile",
-                "x": 648,
-                "y": 584
-            },
-            {
-                "type": "brightTile",
-                "x": 640,
-                "y": 584
-            },
-            {
-                "type": "brightTile",
                 "x": 632,
-                "y": 584
-            },
-            {
-                "type": "brightTile",
-                "x": 736,
-                "y": 584
-            },
-            {
-                "type": "brightTile",
-                "x": 704,
-                "y": 584
-            },
-            {
-                "type": "brightTile",
-                "x": 688,
                 "y": 584
             },
             {
@@ -5229,22 +5154,17 @@ module.exports = [
             },
             {
                 "type": "brightTile",
+                "x": 736,
+                "y": 584
+            },
+            {
+                "type": "brightTile",
                 "x": 88,
                 "y": 584
             },
             {
                 "type": "brightTile",
-                "x": 712,
-                "y": 584
-            },
-            {
-                "type": "brightTile",
-                "x": 720,
-                "y": 584
-            },
-            {
-                "type": "brightTile",
-                "x": 728,
+                "x": 744,
                 "y": 584
             },
             {
@@ -5254,67 +5174,82 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 120,
+                "x": 704,
+                "y": 584
+            },
+            {
+                "type": "brightTile",
+                "x": 648,
+                "y": 584
+            },
+            {
+                "type": "brightTile",
+                "x": 64,
+                "y": 584
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 584
+            },
+            {
+                "type": "brightTile",
+                "x": 720,
+                "y": 584
+            },
+            {
+                "type": "brightTile",
+                "x": 640,
+                "y": 584
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 584
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 584
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
                 "y": 584
             },
             {
                 "type": "brightTile",
                 "x": 56,
-                "y": 576
-            },
-            {
-                "type": "brightTile",
-                "x": 704,
-                "y": 576
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 576
-            },
-            {
-                "type": "brightTile",
-                "x": 696,
-                "y": 576
-            },
-            {
-                "type": "brightTile",
-                "x": 120,
-                "y": 576
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 576
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 576
-            },
-            {
-                "type": "brightTile",
-                "x": 736,
-                "y": 576
-            },
-            {
-                "type": "brightTile",
-                "x": 744,
-                "y": 576
-            },
-            {
-                "type": "brightTile",
-                "x": 720,
-                "y": 576
+                "y": 584
             },
             {
                 "type": "darkTile",
                 "x": 776,
-                "y": 576
+                "y": 584
             },
             {
                 "type": "brightTile",
-                "x": 128,
+                "x": 712,
+                "y": 584
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 584
+            },
+            {
+                "type": "brightTile",
+                "x": 680,
+                "y": 584
+            },
+            {
+                "type": "brightTile",
+                "x": 96,
+                "y": 584
+            },
+            {
+                "type": "brightTile",
+                "x": 720,
                 "y": 576
             },
             {
@@ -5324,12 +5259,12 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 712,
+                "x": 696,
                 "y": 576
             },
             {
-                "type": "darkTile",
-                "x": 8,
+                "type": "brightTile",
+                "x": 656,
                 "y": 576
             },
             {
@@ -5339,7 +5274,12 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 680,
+                "x": 712,
+                "y": 576
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
                 "y": 576
             },
             {
@@ -5349,32 +5289,72 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 688,
+                "x": 744,
                 "y": 576
             },
             {
-                "type": "brightTile",
-                "x": 656,
+                "type": "darkTile",
+                "x": 16,
                 "y": 576
             },
             {
                 "type": "darkTile",
                 "x": 784,
-                "y": 568
+                "y": 576
+            },
+            {
+                "type": "brightTile",
+                "x": 680,
+                "y": 576
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 576
+            },
+            {
+                "type": "brightTile",
+                "x": 704,
+                "y": 576
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 576
+            },
+            {
+                "type": "brightTile",
+                "x": 688,
+                "y": 576
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 576
             },
             {
                 "type": "brightTile",
                 "x": 120,
-                "y": 568
+                "y": 576
             },
             {
                 "type": "brightTile",
-                "x": 720,
-                "y": 568
+                "x": 736,
+                "y": 576
             },
             {
                 "type": "brightTile",
-                "x": 712,
+                "x": 112,
+                "y": 576
+            },
+            {
+                "type": "brightTile",
+                "x": 728,
+                "y": 568
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
                 "y": 568
             },
             {
@@ -5384,12 +5364,7 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 56,
-                "y": 568
-            },
-            {
-                "type": "brightTile",
-                "x": 128,
+                "x": 48,
                 "y": 568
             },
             {
@@ -5399,12 +5374,17 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 48,
+                "x": 680,
                 "y": 568
             },
             {
                 "type": "brightTile",
-                "x": 728,
+                "x": 720,
+                "y": 568
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
                 "y": 568
             },
             {
@@ -5414,7 +5394,27 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 736,
+                "x": 120,
+                "y": 568
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 568
+            },
+            {
+                "type": "brightTile",
+                "x": 712,
+                "y": 568
+            },
+            {
+                "type": "brightTile",
+                "x": 704,
+                "y": 568
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
                 "y": 568
             },
             {
@@ -5424,17 +5424,7 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 704,
-                "y": 568
-            },
-            {
-                "type": "brightTile",
-                "x": 680,
-                "y": 568
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
+                "x": 736,
                 "y": 568
             },
             {
@@ -5444,12 +5434,7 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 48,
-                "y": 560
-            },
-            {
-                "type": "brightTile",
-                "x": 712,
+                "x": 120,
                 "y": 560
             },
             {
@@ -5459,27 +5444,7 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 728,
-                "y": 560
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 560
-            },
-            {
-                "type": "brightTile",
-                "x": 128,
-                "y": 560
-            },
-            {
-                "type": "brightTile",
-                "x": 736,
-                "y": 560
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
+                "x": 744,
                 "y": 560
             },
             {
@@ -5488,13 +5453,38 @@ module.exports = [
                 "y": 560
             },
             {
+                "type": "darkTile",
+                "x": 16,
+                "y": 560
+            },
+            {
+                "type": "brightTile",
+                "x": 736,
+                "y": 560
+            },
+            {
+                "type": "brightTile",
+                "x": 712,
+                "y": 560
+            },
+            {
                 "type": "brightTile",
                 "x": 704,
                 "y": 560
             },
             {
                 "type": "brightTile",
-                "x": 120,
+                "x": 56,
+                "y": 560
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 560
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
                 "y": 560
             },
             {
@@ -5503,14 +5493,24 @@ module.exports = [
                 "y": 560
             },
             {
-                "type": "brightTile",
-                "x": 744,
+                "type": "darkTile",
+                "x": 784,
                 "y": 560
             },
             {
-                "type": "darkTile",
-                "x": 16,
+                "type": "brightTile",
+                "x": 728,
                 "y": 560
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 552
+            },
+            {
+                "type": "brightTile",
+                "x": 96,
+                "y": 552
             },
             {
                 "type": "darkTile",
@@ -5518,8 +5518,48 @@ module.exports = [
                 "y": 552
             },
             {
+                "type": "brightTile",
+                "x": 112,
+                "y": 552
+            },
+            {
                 "type": "darkTile",
                 "x": 16,
+                "y": 552
+            },
+            {
+                "type": "brightTile",
+                "x": 736,
+                "y": 552
+            },
+            {
+                "type": "brightTile",
+                "x": 744,
+                "y": 552
+            },
+            {
+                "type": "brightTile",
+                "x": 120,
+                "y": 552
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 552
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 552
+            },
+            {
+                "type": "brightTile",
+                "x": 80,
+                "y": 552
+            },
+            {
+                "type": "brightTile",
+                "x": 72,
                 "y": 552
             },
             {
@@ -5529,37 +5569,7 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 48,
-                "y": 552
-            },
-            {
-                "type": "brightTile",
-                "x": 128,
-                "y": 552
-            },
-            {
-                "type": "brightTile",
-                "x": 744,
-                "y": 552
-            },
-            {
-                "type": "brightTile",
-                "x": 80,
-                "y": 552
-            },
-            {
-                "type": "brightTile",
-                "x": 96,
-                "y": 552
-            },
-            {
-                "type": "brightTile",
-                "x": 72,
-                "y": 552
-            },
-            {
-                "type": "brightTile",
-                "x": 64,
+                "x": 88,
                 "y": 552
             },
             {
@@ -5569,28 +5579,28 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 120,
+                "x": 64,
                 "y": 552
             },
             {
                 "type": "brightTile",
                 "x": 56,
-                "y": 552
+                "y": 544
             },
             {
                 "type": "brightTile",
-                "x": 736,
-                "y": 552
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 552
+                "x": 120,
+                "y": 544
             },
             {
                 "type": "brightTile",
-                "x": 88,
-                "y": 552
+                "x": 64,
+                "y": 544
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
+                "y": 544
             },
             {
                 "type": "darkTile",
@@ -5603,53 +5613,8 @@ module.exports = [
                 "y": 544
             },
             {
-                "type": "brightTile",
-                "x": 56,
-                "y": 544
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 544
-            },
-            {
                 "type": "darkTile",
                 "x": 16,
-                "y": 544
-            },
-            {
-                "type": "brightTile",
-                "x": 64,
-                "y": 544
-            },
-            {
-                "type": "brightTile",
-                "x": 88,
-                "y": 544
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 544
-            },
-            {
-                "type": "brightTile",
-                "x": 128,
-                "y": 544
-            },
-            {
-                "type": "brightTile",
-                "x": 120,
-                "y": 544
-            },
-            {
-                "type": "brightTile",
-                "x": 96,
-                "y": 544
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
                 "y": 544
             },
             {
@@ -5658,13 +5623,33 @@ module.exports = [
                 "y": 544
             },
             {
+                "type": "darkTile",
+                "x": 776,
+                "y": 544
+            },
+            {
                 "type": "brightTile",
-                "x": 128,
-                "y": 536
+                "x": 88,
+                "y": 544
             },
             {
                 "type": "darkTile",
-                "x": 16,
+                "x": 784,
+                "y": 544
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 544
+            },
+            {
+                "type": "brightTile",
+                "x": 96,
+                "y": 544
+            },
+            {
+                "type": "brightTile",
+                "x": 120,
                 "y": 536
             },
             {
@@ -5674,8 +5659,43 @@ module.exports = [
             },
             {
                 "type": "darkTile",
+                "x": 776,
+                "y": 536
+            },
+            {
+                "type": "darkTile",
                 "x": 784,
                 "y": 536
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 536
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 536
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 536
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
+                "y": 536
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 528
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 528
             },
             {
                 "type": "trigger",
@@ -5684,27 +5704,12 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 120,
-                "y": 536
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 536
+                "x": 112,
+                "y": 528
             },
             {
                 "type": "darkTile",
                 "x": 8,
-                "y": 536
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 536
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
                 "y": 528
             },
             {
@@ -5718,8 +5723,8 @@ module.exports = [
                 "y": 528
             },
             {
-                "type": "brightTile",
-                "x": 128,
+                "type": "darkTile",
+                "x": 776,
                 "y": 528
             },
             {
@@ -5728,23 +5733,33 @@ module.exports = [
                 "y": 528
             },
             {
+                "type": "darkTile",
+                "x": 784,
+                "y": 520
+            },
+            {
                 "type": "brightTile",
-                "x": 48,
-                "y": 528
+                "x": 112,
+                "y": 520
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 520
             },
             {
                 "type": "darkTile",
                 "x": 8,
-                "y": 528
+                "y": 520
             },
             {
                 "type": "darkTile",
-                "x": 16,
-                "y": 528
+                "x": 776,
+                "y": 520
             },
             {
-                "type": "darkTile",
-                "x": 16,
+                "type": "brightTile",
+                "x": 120,
                 "y": 520
             },
             {
@@ -5754,33 +5769,33 @@ module.exports = [
             },
             {
                 "type": "darkTile",
-                "x": 776,
-                "y": 520
-            },
-            {
-                "type": "brightTile",
-                "x": 128,
-                "y": 520
-            },
-            {
-                "type": "brightTile",
-                "x": 120,
+                "x": 16,
                 "y": 520
             },
             {
                 "type": "darkTile",
                 "x": 784,
-                "y": 520
+                "y": 512
             },
             {
                 "type": "brightTile",
                 "x": 56,
-                "y": 520
+                "y": 512
             },
             {
                 "type": "darkTile",
                 "x": 8,
-                "y": 520
+                "y": 512
+            },
+            {
+                "type": "brightTile",
+                "x": 728,
+                "y": 512
+            },
+            {
+                "type": "brightTile",
+                "x": 120,
+                "y": 512
             },
             {
                 "type": "brightTile",
@@ -5788,38 +5803,8 @@ module.exports = [
                 "y": 512
             },
             {
-                "type": "brightTile",
-                "x": 56,
-                "y": 512
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 512
-            },
-            {
                 "type": "darkTile",
                 "x": 16,
-                "y": 512
-            },
-            {
-                "type": "brightTile",
-                "x": 120,
-                "y": 512
-            },
-            {
-                "type": "brightTile",
-                "x": 128,
-                "y": 512
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 512
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
                 "y": 512
             },
             {
@@ -5829,7 +5814,12 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 728,
+                "x": 112,
+                "y": 512
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
                 "y": 512
             },
             {
@@ -5838,48 +5828,8 @@ module.exports = [
                 "y": 504
             },
             {
-                "type": "brightTile",
-                "x": 728,
-                "y": 504
-            },
-            {
-                "type": "brightTile",
-                "x": 120,
-                "y": 504
-            },
-            {
-                "type": "brightTile",
-                "x": 696,
-                "y": 504
-            },
-            {
-                "type": "brightTile",
-                "x": 128,
-                "y": 504
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 504
-            },
-            {
                 "type": "darkTile",
-                "x": 776,
-                "y": 504
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 504
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 504
-            },
-            {
-                "type": "brightTile",
-                "x": 720,
+                "x": 784,
                 "y": 504
             },
             {
@@ -5889,12 +5839,7 @@ module.exports = [
             },
             {
                 "type": "darkTile",
-                "x": 16,
-                "y": 504
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
+                "x": 776,
                 "y": 504
             },
             {
@@ -5904,67 +5849,77 @@ module.exports = [
             },
             {
                 "type": "darkTile",
-                "x": 776,
-                "y": 496
-            },
-            {
-                "type": "brightTile",
-                "x": 536,
-                "y": 496
+                "x": 8,
+                "y": 504
             },
             {
                 "type": "brightTile",
                 "x": 120,
-                "y": 496
+                "y": 504
             },
             {
                 "type": "brightTile",
                 "x": 56,
-                "y": 496
+                "y": 504
             },
             {
                 "type": "brightTile",
-                "x": 560,
-                "y": 496
+                "x": 728,
+                "y": 504
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 504
             },
             {
                 "type": "brightTile",
-                "x": 568,
-                "y": 496
+                "x": 720,
+                "y": 504
             },
             {
                 "type": "brightTile",
-                "x": 424,
-                "y": 496
+                "x": 696,
+                "y": 504
             },
             {
                 "type": "brightTile",
-                "x": 552,
-                "y": 496
+                "x": 48,
+                "y": 504
             },
             {
                 "type": "brightTile",
-                "x": 464,
-                "y": 496
+                "x": 112,
+                "y": 504
             },
             {
                 "type": "brightTile",
-                "x": 680,
+                "x": 696,
                 "y": 496
             },
             {
                 "type": "darkTile",
-                "x": 784,
+                "x": 16,
                 "y": 496
             },
             {
                 "type": "brightTile",
-                "x": 576,
+                "x": 608,
                 "y": 496
             },
             {
                 "type": "brightTile",
-                "x": 456,
+                "x": 728,
+                "y": 496
+            },
+            {
+                "type": "brightTile",
+                "x": 592,
+                "y": 496
+            },
+            {
+                "type": "brightTile",
+                "x": 616,
                 "y": 496
             },
             {
@@ -5974,7 +5929,7 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 440,
+                "x": 512,
                 "y": 496
             },
             {
@@ -5984,22 +5939,72 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 600,
-                "y": 496
-            },
-            {
-                "type": "brightTile",
                 "x": 632,
                 "y": 496
             },
             {
                 "type": "brightTile",
-                "x": 648,
+                "x": 584,
                 "y": 496
             },
             {
                 "type": "brightTile",
-                "x": 416,
+                "x": 712,
+                "y": 496
+            },
+            {
+                "type": "brightTile",
+                "x": 640,
+                "y": 496
+            },
+            {
+                "type": "brightTile",
+                "x": 680,
+                "y": 496
+            },
+            {
+                "type": "brightTile",
+                "x": 552,
+                "y": 496
+            },
+            {
+                "type": "brightTile",
+                "x": 576,
+                "y": 496
+            },
+            {
+                "type": "brightTile",
+                "x": 720,
+                "y": 496
+            },
+            {
+                "type": "brightTile",
+                "x": 656,
+                "y": 496
+            },
+            {
+                "type": "brightTile",
+                "x": 528,
+                "y": 496
+            },
+            {
+                "type": "brightTile",
+                "x": 120,
+                "y": 496
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
+                "y": 496
+            },
+            {
+                "type": "brightTile",
+                "x": 688,
+                "y": 496
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
                 "y": 496
             },
             {
@@ -6008,8 +6013,18 @@ module.exports = [
                 "y": 496
             },
             {
+                "type": "darkTile",
+                "x": 784,
+                "y": 496
+            },
+            {
                 "type": "brightTile",
-                "x": 592,
+                "x": 504,
+                "y": 496
+            },
+            {
+                "type": "brightTile",
+                "x": 568,
                 "y": 496
             },
             {
@@ -6019,37 +6034,7 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 728,
-                "y": 496
-            },
-            {
-                "type": "brightTile",
-                "x": 528,
-                "y": 496
-            },
-            {
-                "type": "brightTile",
-                "x": 448,
-                "y": 496
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 496
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 496
-            },
-            {
-                "type": "brightTile",
-                "x": 696,
-                "y": 496
-            },
-            {
-                "type": "brightTile",
-                "x": 512,
+                "x": 672,
                 "y": 496
             },
             {
@@ -6058,28 +6043,8 @@ module.exports = [
                 "y": 496
             },
             {
-                "type": "brightTile",
-                "x": 480,
-                "y": 496
-            },
-            {
-                "type": "brightTile",
-                "x": 432,
-                "y": 496
-            },
-            {
-                "type": "brightTile",
-                "x": 608,
-                "y": 496
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
-                "y": 496
-            },
-            {
-                "type": "brightTile",
-                "x": 128,
+                "type": "darkTile",
+                "x": 776,
                 "y": 496
             },
             {
@@ -6089,107 +6054,32 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 640,
+                "x": 560,
                 "y": 496
             },
             {
                 "type": "brightTile",
-                "x": 712,
+                "x": 48,
                 "y": 496
             },
             {
                 "type": "brightTile",
-                "x": 584,
+                "x": 600,
                 "y": 496
             },
             {
                 "type": "brightTile",
-                "x": 616,
+                "x": 536,
                 "y": 496
             },
             {
                 "type": "brightTile",
-                "x": 488,
+                "x": 648,
                 "y": 496
             },
             {
                 "type": "brightTile",
-                "x": 688,
-                "y": 496
-            },
-            {
-                "type": "brightTile",
-                "x": 720,
-                "y": 496
-            },
-            {
-                "type": "brightTile",
-                "x": 504,
-                "y": 496
-            },
-            {
-                "type": "brightTile",
-                "x": 496,
-                "y": 496
-            },
-            {
-                "type": "brightTile",
-                "x": 472,
-                "y": 496
-            },
-            {
-                "type": "brightTile",
-                "x": 656,
-                "y": 496
-            },
-            {
-                "type": "brightTile",
-                "x": 592,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 632,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 616,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 584,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 464,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 440,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 568,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 480,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 504,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 704,
+                "x": 512,
                 "y": 488
             },
             {
@@ -6198,8 +6088,18 @@ module.exports = [
                 "y": 488
             },
             {
+                "type": "darkTile",
+                "x": 16,
+                "y": 488
+            },
+            {
                 "type": "brightTile",
-                "x": 416,
+                "x": 592,
+                "y": 488
+            },
+            {
+                "type": "brightTile",
+                "x": 520,
                 "y": 488
             },
             {
@@ -6209,107 +6109,7 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 656,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 576,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 512,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 448,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 560,
-                "y": 488
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 536,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 608,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 680,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 456,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 472,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 696,
-                "y": 488
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 712,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 664,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 640,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 544,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 624,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 432,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
+                "x": 704,
                 "y": 488
             },
             {
@@ -6319,12 +6119,92 @@ module.exports = [
             },
             {
                 "type": "brightTile",
+                "x": 688,
+                "y": 488
+            },
+            {
+                "type": "brightTile",
+                "x": 504,
+                "y": 488
+            },
+            {
+                "type": "brightTile",
+                "x": 656,
+                "y": 488
+            },
+            {
+                "type": "brightTile",
+                "x": 568,
+                "y": 488
+            },
+            {
+                "type": "brightTile",
+                "x": 640,
+                "y": 488
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
+                "y": 488
+            },
+            {
+                "type": "brightTile",
+                "x": 616,
+                "y": 488
+            },
+            {
+                "type": "brightTile",
+                "x": 560,
+                "y": 488
+            },
+            {
+                "type": "brightTile",
+                "x": 576,
+                "y": 488
+            },
+            {
+                "type": "brightTile",
+                "x": 680,
+                "y": 488
+            },
+            {
+                "type": "brightTile",
+                "x": 544,
+                "y": 488
+            },
+            {
+                "type": "brightTile",
                 "x": 528,
                 "y": 488
             },
             {
                 "type": "brightTile",
-                "x": 496,
+                "x": 672,
+                "y": 488
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 488
+            },
+            {
+                "type": "brightTile",
+                "x": 712,
+                "y": 488
+            },
+            {
+                "type": "brightTile",
+                "x": 584,
+                "y": 488
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 488
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
                 "y": 488
             },
             {
@@ -6339,42 +6219,42 @@ module.exports = [
             },
             {
                 "type": "brightTile",
+                "x": 48,
+                "y": 488
+            },
+            {
+                "type": "brightTile",
+                "x": 632,
+                "y": 488
+            },
+            {
+                "type": "brightTile",
+                "x": 624,
+                "y": 488
+            },
+            {
+                "type": "brightTile",
+                "x": 536,
+                "y": 488
+            },
+            {
+                "type": "brightTile",
+                "x": 608,
+                "y": 488
+            },
+            {
+                "type": "brightTile",
+                "x": 120,
+                "y": 488
+            },
+            {
+                "type": "brightTile",
+                "x": 696,
+                "y": 488
+            },
+            {
+                "type": "brightTile",
                 "x": 520,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 488,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 688,
-                "y": 488
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 488
-            },
-            {
-                "type": "brightTile",
-                "x": 424,
-                "y": 488
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 480
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 480
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
                 "y": 480
             },
             {
@@ -6383,8 +6263,13 @@ module.exports = [
                 "y": 480
             },
             {
+                "type": "brightTile",
+                "x": 528,
+                "y": 480
+            },
+            {
                 "type": "darkTile",
-                "x": 16,
+                "x": 8,
                 "y": 480
             },
             {
@@ -6394,22 +6279,52 @@ module.exports = [
             },
             {
                 "type": "brightTile",
+                "x": 512,
+                "y": 480
+            },
+            {
+                "type": "brightTile",
+                "x": 504,
+                "y": 480
+            },
+            {
+                "type": "brightTile",
                 "x": 48,
-                "y": 472
+                "y": 480
             },
             {
-                "type": "darkTile",
-                "x": 776,
-                "y": 472
+                "type": "brightTile",
+                "x": 120,
+                "y": 480
             },
             {
-                "type": "darkTile",
-                "x": 784,
-                "y": 472
+                "type": "brightTile",
+                "x": 536,
+                "y": 480
             },
             {
                 "type": "darkTile",
                 "x": 16,
+                "y": 480
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 480
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
+                "y": 480
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 472
+            },
+            {
+                "type": "brightTile",
+                "x": 504,
                 "y": 472
             },
             {
@@ -6423,18 +6338,68 @@ module.exports = [
                 "y": 472
             },
             {
+                "type": "brightTile",
+                "x": 536,
+                "y": 472
+            },
+            {
+                "type": "brightTile",
+                "x": 528,
+                "y": 472
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 472
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 472
+            },
+            {
+                "type": "brightTile",
+                "x": 512,
+                "y": 472
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 472
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
+                "y": 472
+            },
+            {
+                "type": "brightTile",
+                "x": 120,
+                "y": 472
+            },
+            {
+                "type": "brightTile",
+                "x": 520,
+                "y": 472
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
+                "y": 464
+            },
+            {
                 "type": "darkTile",
                 "x": 8,
                 "y": 464
             },
             {
                 "type": "brightTile",
-                "x": 56,
+                "x": 120,
                 "y": 464
             },
             {
-                "type": "brightTile",
-                "x": 48,
+                "type": "darkTile",
+                "x": 784,
                 "y": 464
             },
             {
@@ -6443,8 +6408,18 @@ module.exports = [
                 "y": 464
             },
             {
-                "type": "darkTile",
-                "x": 784,
+                "type": "brightTile",
+                "x": 48,
+                "y": 464
+            },
+            {
+                "type": "brightTile",
+                "x": 504,
+                "y": 464
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
                 "y": 464
             },
             {
@@ -6453,23 +6428,28 @@ module.exports = [
                 "y": 464
             },
             {
-                "type": "darkTile",
-                "x": 8,
-                "y": 456
+                "type": "brightTile",
+                "x": 512,
+                "y": 464
             },
             {
-                "type": "darkTile",
-                "x": 784,
-                "y": 456
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
+                "type": "brightTile",
+                "x": 560,
                 "y": 456
             },
             {
                 "type": "brightTile",
                 "x": 48,
+                "y": 456
+            },
+            {
+                "type": "brightTile",
+                "x": 576,
+                "y": 456
+            },
+            {
+                "type": "brightTile",
+                "x": 120,
                 "y": 456
             },
             {
@@ -6479,38 +6459,48 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 56,
+                "x": 584,
+                "y": 456
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
                 "y": 456
             },
             {
                 "type": "darkTile",
                 "x": 8,
-                "y": 448
+                "y": 456
+            },
+            {
+                "type": "brightTile",
+                "x": 568,
+                "y": 456
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 456
             },
             {
                 "type": "darkTile",
                 "x": 784,
-                "y": 448
+                "y": 456
             },
             {
                 "type": "brightTile",
-                "x": 696,
-                "y": 448
+                "x": 504,
+                "y": 456
             },
             {
                 "type": "brightTile",
-                "x": 768,
-                "y": 448
+                "x": 112,
+                "y": 456
             },
             {
                 "type": "brightTile",
-                "x": 720,
-                "y": 448
-            },
-            {
-                "type": "brightTile",
-                "x": 728,
-                "y": 448
+                "x": 512,
+                "y": 456
             },
             {
                 "type": "brightTile",
@@ -6518,13 +6508,38 @@ module.exports = [
                 "y": 448
             },
             {
+                "type": "darkTile",
+                "x": 8,
+                "y": 448
+            },
+            {
                 "type": "brightTile",
-                "x": 680,
+                "x": 120,
+                "y": 448
+            },
+            {
+                "type": "brightTile",
+                "x": 560,
                 "y": 448
             },
             {
                 "type": "brightTile",
                 "x": 688,
+                "y": 448
+            },
+            {
+                "type": "brightTile",
+                "x": 744,
+                "y": 448
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 448
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
                 "y": 448
             },
             {
@@ -6534,7 +6549,7 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 752,
+                "x": 712,
                 "y": 448
             },
             {
@@ -6543,33 +6558,8 @@ module.exports = [
                 "y": 448
             },
             {
-                "type": "darkTile",
-                "x": 776,
-                "y": 448
-            },
-            {
-                "type": "brightTile",
-                "x": 712,
-                "y": 448
-            },
-            {
-                "type": "brightTile",
-                "x": 744,
-                "y": 448
-            },
-            {
-                "type": "brightTile",
-                "x": 736,
-                "y": 448
-            },
-            {
                 "type": "brightTile",
                 "x": 664,
-                "y": 448
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
                 "y": 448
             },
             {
@@ -6579,22 +6569,82 @@ module.exports = [
             },
             {
                 "type": "brightTile",
+                "x": 512,
+                "y": 448
+            },
+            {
+                "type": "brightTile",
+                "x": 680,
+                "y": 448
+            },
+            {
+                "type": "brightTile",
+                "x": 768,
+                "y": 448
+            },
+            {
+                "type": "brightTile",
+                "x": 696,
+                "y": 448
+            },
+            {
+                "type": "brightTile",
+                "x": 576,
+                "y": 448
+            },
+            {
+                "type": "brightTile",
+                "x": 504,
+                "y": 448
+            },
+            {
+                "type": "brightTile",
+                "x": 720,
+                "y": 448
+            },
+            {
+                "type": "brightTile",
+                "x": 568,
+                "y": 448
+            },
+            {
+                "type": "brightTile",
+                "x": 752,
+                "y": 448
+            },
+            {
+                "type": "brightTile",
+                "x": 584,
+                "y": 448
+            },
+            {
+                "type": "brightTile",
                 "x": 56,
                 "y": 448
             },
             {
                 "type": "brightTile",
-                "x": 744,
-                "y": 440
+                "x": 736,
+                "y": 448
             },
             {
                 "type": "darkTile",
-                "x": 16,
-                "y": 440
+                "x": 784,
+                "y": 448
             },
             {
                 "type": "brightTile",
-                "x": 672,
+                "x": 728,
+                "y": 448
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 448
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
                 "y": 440
             },
             {
@@ -6604,72 +6654,12 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 728,
-                "y": 440
-            },
-            {
-                "type": "brightTile",
-                "x": 768,
-                "y": 440
-            },
-            {
-                "type": "brightTile",
-                "x": 680,
+                "x": 512,
                 "y": 440
             },
             {
                 "type": "brightTile",
                 "x": 56,
-                "y": 440
-            },
-            {
-                "type": "brightTile",
-                "x": 760,
-                "y": 440
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 440
-            },
-            {
-                "type": "brightTile",
-                "x": 688,
-                "y": 440
-            },
-            {
-                "type": "brightTile",
-                "x": 736,
-                "y": 440
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 440
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 440
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 440
-            },
-            {
-                "type": "brightTile",
-                "x": 712,
-                "y": 440
-            },
-            {
-                "type": "brightTile",
-                "x": 696,
-                "y": 440
-            },
-            {
-                "type": "brightTile",
-                "x": 720,
                 "y": 440
             },
             {
@@ -6679,147 +6669,262 @@ module.exports = [
             },
             {
                 "type": "brightTile",
+                "x": 736,
+                "y": 440
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 440
+            },
+            {
+                "type": "brightTile",
                 "x": 664,
+                "y": 440
+            },
+            {
+                "type": "brightTile",
+                "x": 744,
+                "y": 440
+            },
+            {
+                "type": "brightTile",
+                "x": 728,
+                "y": 440
+            },
+            {
+                "type": "brightTile",
+                "x": 504,
+                "y": 440
+            },
+            {
+                "type": "brightTile",
+                "x": 688,
+                "y": 440
+            },
+            {
+                "type": "brightTile",
+                "x": 720,
+                "y": 440
+            },
+            {
+                "type": "brightTile",
+                "x": 760,
+                "y": 440
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 440
+            },
+            {
+                "type": "brightTile",
+                "x": 768,
+                "y": 440
+            },
+            {
+                "type": "brightTile",
+                "x": 120,
                 "y": 440
             },
             {
                 "type": "darkTile",
                 "x": 16,
-                "y": 432
+                "y": 440
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 440
             },
             {
                 "type": "brightTile",
-                "x": 56,
-                "y": 432
+                "x": 680,
+                "y": 440
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
+                "y": 440
             },
             {
                 "type": "brightTile",
                 "x": 48,
-                "y": 432
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 432
+                "y": 440
             },
             {
                 "type": "brightTile",
-                "x": 664,
-                "y": 432
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 432
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 432
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
-                "y": 432
-            },
-            {
-                "type": "brightTile",
-                "x": 664,
-                "y": 424
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 424
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
-                "y": 424
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 424
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 424
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 424
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 424
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 424
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 416
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 416
-            },
-            {
-                "type": "brightTile",
-                "x": 744,
-                "y": 416
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 416
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 416
+                "x": 696,
+                "y": 440
             },
             {
                 "type": "brightTile",
                 "x": 712,
-                "y": 416
+                "y": 440
             },
             {
                 "type": "brightTile",
-                "x": 736,
-                "y": 416
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 416
-            },
-            {
-                "type": "brightTile",
-                "x": 728,
-                "y": 416
+                "x": 544,
+                "y": 432
             },
             {
                 "type": "darkTile",
-                "x": 16,
-                "y": 416
+                "x": 784,
+                "y": 432
             },
             {
                 "type": "brightTile",
-                "x": 704,
-                "y": 416
+                "x": 664,
+                "y": 432
+            },
+            {
+                "type": "brightTile",
+                "x": 536,
+                "y": 432
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 432
+            },
+            {
+                "type": "brightTile",
+                "x": 528,
+                "y": 432
             },
             {
                 "type": "brightTile",
                 "x": 672,
+                "y": 432
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
+                "y": 432
+            },
+            {
+                "type": "brightTile",
+                "x": 520,
+                "y": 432
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 432
+            },
+            {
+                "type": "brightTile",
+                "x": 120,
+                "y": 432
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 432
+            },
+            {
+                "type": "brightTile",
+                "x": 512,
+                "y": 432
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 432
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 432
+            },
+            {
+                "type": "brightTile",
+                "x": 504,
+                "y": 432
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 424
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 424
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 424
+            },
+            {
+                "type": "brightTile",
+                "x": 528,
+                "y": 424
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 424
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
+                "y": 424
+            },
+            {
+                "type": "brightTile",
+                "x": 544,
+                "y": 424
+            },
+            {
+                "type": "brightTile",
+                "x": 536,
+                "y": 424
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 424
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 424
+            },
+            {
+                "type": "brightTile",
+                "x": 520,
+                "y": 424
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 424
+            },
+            {
+                "type": "brightTile",
+                "x": 512,
+                "y": 424
+            },
+            {
+                "type": "brightTile",
+                "x": 504,
+                "y": 424
+            },
+            {
+                "type": "brightTile",
+                "x": 120,
+                "y": 424
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 424
+            },
+            {
+                "type": "brightTile",
+                "x": 592,
                 "y": 416
             },
             {
@@ -6829,12 +6934,97 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 664,
+                "x": 56,
+                "y": 416
+            },
+            {
+                "type": "brightTile",
+                "x": 568,
+                "y": 416
+            },
+            {
+                "type": "brightTile",
+                "x": 120,
+                "y": 416
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 416
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 416
+            },
+            {
+                "type": "brightTile",
+                "x": 704,
+                "y": 416
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 416
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 416
+            },
+            {
+                "type": "brightTile",
+                "x": 736,
+                "y": 416
+            },
+            {
+                "type": "brightTile",
+                "x": 576,
                 "y": 416
             },
             {
                 "type": "brightTile",
                 "x": 672,
+                "y": 416
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 416
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
+                "y": 416
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 416
+            },
+            {
+                "type": "brightTile",
+                "x": 744,
+                "y": 416
+            },
+            {
+                "type": "brightTile",
+                "x": 712,
+                "y": 416
+            },
+            {
+                "type": "brightTile",
+                "x": 584,
+                "y": 416
+            },
+            {
+                "type": "brightTile",
+                "x": 728,
+                "y": 416
+            },
+            {
+                "type": "brightTile",
+                "x": 120,
                 "y": 408
             },
             {
@@ -6843,18 +7033,28 @@ module.exports = [
                 "y": 408
             },
             {
+                "type": "brightTile",
+                "x": 584,
+                "y": 408
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 408
+            },
+            {
+                "type": "brightTile",
+                "x": 592,
+                "y": 408
+            },
+            {
+                "type": "brightTile",
+                "x": 720,
+                "y": 408
+            },
+            {
                 "type": "darkTile",
-                "x": 16,
-                "y": 408
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 408
-            },
-            {
-                "type": "brightTile",
-                "x": 744,
+                "x": 8,
                 "y": 408
             },
             {
@@ -6863,13 +7063,8 @@ module.exports = [
                 "y": 408
             },
             {
-                "type": "darkTile",
-                "x": 784,
-                "y": 408
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
+                "type": "brightTile",
+                "x": 672,
                 "y": 408
             },
             {
@@ -6879,22 +7074,27 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 664,
-                "y": 408
-            },
-            {
-                "type": "brightTile",
-                "x": 720,
-                "y": 408
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 408
-            },
-            {
-                "type": "brightTile",
                 "x": 704,
+                "y": 408
+            },
+            {
+                "type": "brightTile",
+                "x": 576,
+                "y": 408
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 408
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 408
+            },
+            {
+                "type": "brightTile",
+                "x": 744,
                 "y": 408
             },
             {
@@ -6904,23 +7104,23 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 48,
-                "y": 400
+                "x": 56,
+                "y": 408
             },
             {
                 "type": "brightTile",
-                "x": 664,
-                "y": 400
+                "x": 48,
+                "y": 408
             },
             {
-                "type": "darkTile",
-                "x": 8,
-                "y": 400
+                "type": "brightTile",
+                "x": 568,
+                "y": 408
             },
             {
-                "type": "darkTile",
-                "x": 16,
-                "y": 400
+                "type": "brightTile",
+                "x": 112,
+                "y": 408
             },
             {
                 "type": "darkTile",
@@ -6933,14 +7133,59 @@ module.exports = [
                 "y": 400
             },
             {
+                "type": "darkTile",
+                "x": 776,
+                "y": 400
+            },
+            {
+                "type": "brightTile",
+                "x": 120,
+                "y": 400
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 400
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 400
+            },
+            {
                 "type": "brightTile",
                 "x": 672,
                 "y": 400
             },
             {
                 "type": "darkTile",
-                "x": 776,
+                "x": 8,
                 "y": 400
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
+                "y": 400
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 400
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 392
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 392
+            },
+            {
+                "type": "brightTile",
+                "x": 520,
+                "y": 392
             },
             {
                 "type": "brightTile",
@@ -6949,17 +7194,27 @@ module.exports = [
             },
             {
                 "type": "darkTile",
-                "x": 776,
+                "x": 16,
                 "y": 392
             },
             {
                 "type": "brightTile",
-                "x": 672,
+                "x": 112,
                 "y": 392
             },
             {
-                "type": "darkTile",
-                "x": 784,
+                "type": "brightTile",
+                "x": 536,
+                "y": 392
+            },
+            {
+                "type": "brightTile",
+                "x": 544,
+                "y": 392
+            },
+            {
+                "type": "brightTile",
+                "x": 120,
                 "y": 392
             },
             {
@@ -6969,47 +7224,42 @@ module.exports = [
             },
             {
                 "type": "darkTile",
-                "x": 16,
-                "y": 392
-            },
-            {
-                "type": "darkTile",
                 "x": 8,
                 "y": 392
             },
             {
-                "type": "brightTile",
-                "x": 664,
+                "type": "darkTile",
+                "x": 784,
                 "y": 392
             },
             {
-                "type": "darkTile",
-                "x": 16,
+                "type": "brightTile",
+                "x": 528,
+                "y": 392
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 392
+            },
+            {
+                "type": "brightTile",
+                "x": 528,
                 "y": 384
             },
             {
                 "type": "brightTile",
-                "x": 56,
-                "y": 384
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 384
-            },
-            {
-                "type": "brightTile",
-                "x": 664,
-                "y": 384
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
+                "x": 544,
                 "y": 384
             },
             {
                 "type": "brightTile",
                 "x": 672,
+                "y": 384
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
                 "y": 384
             },
             {
@@ -7023,8 +7273,103 @@ module.exports = [
                 "y": 384
             },
             {
+                "type": "brightTile",
+                "x": 664,
+                "y": 384
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
+                "y": 384
+            },
+            {
+                "type": "brightTile",
+                "x": 536,
+                "y": 384
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 384
+            },
+            {
+                "type": "brightTile",
+                "x": 120,
+                "y": 384
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 384
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 384
+            },
+            {
+                "type": "brightTile",
+                "x": 520,
+                "y": 384
+            },
+            {
+                "type": "brightTile",
+                "x": 736,
+                "y": 376
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 376
+            },
+            {
+                "type": "brightTile",
+                "x": 704,
+                "y": 376
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
+                "y": 376
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 376
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 376
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 376
+            },
+            {
                 "type": "darkTile",
                 "x": 8,
+                "y": 376
+            },
+            {
+                "type": "brightTile",
+                "x": 120,
+                "y": 376
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 376
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 376
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
                 "y": 376
             },
             {
@@ -7038,83 +7383,33 @@ module.exports = [
                 "y": 376
             },
             {
-                "type": "darkTile",
-                "x": 776,
-                "y": 376
-            },
-            {
                 "type": "brightTile",
-                "x": 672,
-                "y": 376
+                "x": 664,
+                "y": 368
             },
             {
                 "type": "darkTile",
                 "x": 784,
-                "y": 376
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 376
-            },
-            {
-                "type": "brightTile",
-                "x": 664,
-                "y": 376
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 376
-            },
-            {
-                "type": "brightTile",
-                "x": 736,
-                "y": 376
+                "y": 368
             },
             {
                 "type": "darkTile",
-                "x": 16,
-                "y": 376
-            },
-            {
-                "type": "brightTile",
-                "x": 704,
-                "y": 376
-            },
-            {
-                "type": "brightTile",
-                "x": 736,
+                "x": 776,
                 "y": 368
             },
             {
                 "type": "brightTile",
                 "x": 672,
+                "y": 368
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
                 "y": 368
             },
             {
                 "type": "brightTile",
                 "x": 712,
-                "y": 368
-            },
-            {
-                "type": "brightTile",
-                "x": 664,
-                "y": 368
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 368
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 368
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
                 "y": 368
             },
             {
@@ -7129,7 +7424,37 @@ module.exports = [
             },
             {
                 "type": "darkTile",
-                "x": 784,
+                "x": 16,
+                "y": 368
+            },
+            {
+                "type": "brightTile",
+                "x": 568,
+                "y": 368
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 368
+            },
+            {
+                "type": "brightTile",
+                "x": 736,
+                "y": 368
+            },
+            {
+                "type": "brightTile",
+                "x": 576,
+                "y": 368
+            },
+            {
+                "type": "brightTile",
+                "x": 592,
+                "y": 368
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
                 "y": 368
             },
             {
@@ -7138,9 +7463,24 @@ module.exports = [
                 "y": 368
             },
             {
-                "type": "darkTile",
-                "x": 8,
+                "type": "brightTile",
+                "x": 120,
                 "y": 368
+            },
+            {
+                "type": "brightTile",
+                "x": 584,
+                "y": 368
+            },
+            {
+                "type": "brightTile",
+                "x": 504,
+                "y": 360
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 360
             },
             {
                 "type": "brightTile",
@@ -7148,13 +7488,18 @@ module.exports = [
                 "y": 360
             },
             {
-                "type": "darkTile",
-                "x": 784,
+                "type": "brightTile",
+                "x": 48,
                 "y": 360
             },
             {
                 "type": "brightTile",
-                "x": 744,
+                "x": 736,
+                "y": 360
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
                 "y": 360
             },
             {
@@ -7164,12 +7509,22 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 472,
+                "x": 528,
                 "y": 360
             },
             {
                 "type": "brightTile",
-                "x": 480,
+                "x": 248,
+                "y": 360
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 360
+            },
+            {
+                "type": "brightTile",
+                "x": 200,
                 "y": 360
             },
             {
@@ -7178,63 +7533,13 @@ module.exports = [
                 "y": 360
             },
             {
-                "type": "darkTile",
-                "x": 8,
+                "type": "brightTile",
+                "x": 712,
                 "y": 360
             },
             {
                 "type": "brightTile",
-                "x": 456,
-                "y": 360
-            },
-            {
-                "type": "brightTile",
-                "x": 704,
-                "y": 360
-            },
-            {
-                "type": "brightTile",
-                "x": 368,
-                "y": 360
-            },
-            {
-                "type": "brightTile",
-                "x": 736,
-                "y": 360
-            },
-            {
-                "type": "brightTile",
-                "x": 464,
-                "y": 360
-            },
-            {
-                "type": "brightTile",
-                "x": 664,
-                "y": 360
-            },
-            {
-                "type": "brightTile",
-                "x": 488,
-                "y": 360
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 360
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 360
-            },
-            {
-                "type": "brightTile",
-                "x": 352,
-                "y": 360
-            },
-            {
-                "type": "brightTile",
-                "x": 336,
+                "x": 320,
                 "y": 360
             },
             {
@@ -7244,7 +7549,12 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 320,
+                "x": 704,
+                "y": 360
+            },
+            {
+                "type": "brightTile",
+                "x": 472,
                 "y": 360
             },
             {
@@ -7254,52 +7564,127 @@ module.exports = [
             },
             {
                 "type": "brightTile",
+                "x": 592,
+                "y": 360
+            },
+            {
+                "type": "brightTile",
+                "x": 568,
+                "y": 360
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 360
+            },
+            {
+                "type": "brightTile",
                 "x": 672,
                 "y": 360
             },
             {
                 "type": "brightTile",
-                "x": 504,
+                "x": 304,
                 "y": 360
             },
             {
                 "type": "brightTile",
-                "x": 712,
+                "x": 312,
                 "y": 360
             },
             {
                 "type": "brightTile",
-                "x": 360,
+                "x": 120,
                 "y": 360
             },
             {
                 "type": "brightTile",
-                "x": 712,
-                "y": 352
+                "x": 368,
+                "y": 360
             },
             {
                 "type": "brightTile",
-                "x": 360,
-                "y": 352
-            },
-            {
-                "type": "brightTile",
-                "x": 464,
-                "y": 352
-            },
-            {
-                "type": "brightTile",
-                "x": 328,
-                "y": 352
-            },
-            {
-                "type": "brightTile",
-                "x": 472,
-                "y": 352
+                "x": 352,
+                "y": 360
             },
             {
                 "type": "darkTile",
                 "x": 776,
+                "y": 360
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
+                "y": 360
+            },
+            {
+                "type": "brightTile",
+                "x": 520,
+                "y": 360
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 360
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 360
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 360
+            },
+            {
+                "type": "brightTile",
+                "x": 488,
+                "y": 360
+            },
+            {
+                "type": "brightTile",
+                "x": 744,
+                "y": 360
+            },
+            {
+                "type": "brightTile",
+                "x": 456,
+                "y": 360
+            },
+            {
+                "type": "brightTile",
+                "x": 576,
+                "y": 360
+            },
+            {
+                "type": "brightTile",
+                "x": 360,
+                "y": 360
+            },
+            {
+                "type": "brightTile",
+                "x": 584,
+                "y": 360
+            },
+            {
+                "type": "brightTile",
+                "x": 336,
+                "y": 360
+            },
+            {
+                "type": "brightTile",
+                "x": 464,
+                "y": 360
+            },
+            {
+                "type": "brightTile",
+                "x": 480,
+                "y": 360
+            },
+            {
+                "type": "brightTile",
+                "x": 368,
                 "y": 352
             },
             {
@@ -7309,7 +7694,22 @@ module.exports = [
             },
             {
                 "type": "brightTile",
+                "x": 360,
+                "y": 352
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 352
+            },
+            {
+                "type": "brightTile",
                 "x": 736,
+                "y": 352
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
                 "y": 352
             },
             {
@@ -7319,7 +7719,82 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 48,
+                "x": 472,
+                "y": 352
+            },
+            {
+                "type": "brightTile",
+                "x": 488,
+                "y": 352
+            },
+            {
+                "type": "brightTile",
+                "x": 328,
+                "y": 352
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 352
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 352
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 352
+            },
+            {
+                "type": "brightTile",
+                "x": 464,
+                "y": 352
+            },
+            {
+                "type": "brightTile",
+                "x": 744,
+                "y": 352
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 352
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 352
+            },
+            {
+                "type": "brightTile",
+                "x": 200,
+                "y": 352
+            },
+            {
+                "type": "brightTile",
+                "x": 528,
+                "y": 352
+            },
+            {
+                "type": "brightTile",
+                "x": 320,
+                "y": 352
+            },
+            {
+                "type": "brightTile",
+                "x": 352,
+                "y": 352
+            },
+            {
+                "type": "brightTile",
+                "x": 712,
+                "y": 352
+            },
+            {
+                "type": "brightTile",
+                "x": 336,
                 "y": 352
             },
             {
@@ -7328,8 +7803,38 @@ module.exports = [
                 "y": 352
             },
             {
+                "type": "darkTile",
+                "x": 776,
+                "y": 352
+            },
+            {
                 "type": "brightTile",
-                "x": 488,
+                "x": 456,
+                "y": 352
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 352
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 352
+            },
+            {
+                "type": "brightTile",
+                "x": 504,
+                "y": 352
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 352
+            },
+            {
+                "type": "brightTile",
+                "x": 344,
                 "y": 352
             },
             {
@@ -7339,68 +7844,108 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 352,
+                "x": 48,
                 "y": 352
             },
             {
                 "type": "brightTile",
-                "x": 456,
+                "x": 520,
                 "y": 352
             },
             {
-                "type": "darkTile",
-                "x": 16,
+                "type": "brightTile",
+                "x": 248,
+                "y": 352
+            },
+            {
+                "type": "brightTile",
+                "x": 312,
+                "y": 352
+            },
+            {
+                "type": "brightTile",
+                "x": 120,
+                "y": 352
+            },
+            {
+                "type": "brightTile",
+                "x": 304,
                 "y": 352
             },
             {
                 "type": "darkTile",
                 "x": 784,
-                "y": 352
+                "y": 344
             },
             {
                 "type": "brightTile",
-                "x": 344,
-                "y": 352
+                "x": 120,
+                "y": 344
             },
             {
                 "type": "brightTile",
-                "x": 368,
-                "y": 352
-            },
-            {
-                "type": "brightTile",
-                "x": 504,
-                "y": 352
-            },
-            {
-                "type": "brightTile",
-                "x": 336,
-                "y": 352
+                "x": 112,
+                "y": 344
             },
             {
                 "type": "darkTile",
-                "x": 8,
-                "y": 352
+                "x": 16,
+                "y": 344
             },
             {
                 "type": "brightTile",
-                "x": 664,
-                "y": 352
+                "x": 704,
+                "y": 344
+            },
+            {
+                "type": "brightTile",
+                "x": 528,
+                "y": 344
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 344
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 344
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
+                "y": 344
+            },
+            {
+                "type": "brightTile",
+                "x": 200,
+                "y": 344
             },
             {
                 "type": "brightTile",
                 "x": 56,
-                "y": 352
+                "y": 344
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 344
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 344
+            },
+            {
+                "type": "brightTile",
+                "x": 736,
+                "y": 344
             },
             {
                 "type": "brightTile",
                 "x": 744,
-                "y": 352
-            },
-            {
-                "type": "brightTile",
-                "x": 320,
-                "y": 352
+                "y": 344
             },
             {
                 "type": "darkTile",
@@ -7413,24 +7958,74 @@ module.exports = [
                 "y": 344
             },
             {
-                "type": "darkTile",
-                "x": 784,
+                "type": "brightTile",
+                "x": 240,
                 "y": 344
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 344
+            },
+            {
+                "type": "brightTile",
+                "x": 520,
+                "y": 344
+            },
+            {
+                "type": "brightTile",
+                "x": 712,
+                "y": 344
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 344
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 336
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 336
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 336
+            },
+            {
+                "type": "brightTile",
+                "x": 712,
+                "y": 336
+            },
+            {
+                "type": "brightTile",
+                "x": 520,
+                "y": 336
             },
             {
                 "type": "brightTile",
                 "x": 56,
-                "y": 344
+                "y": 336
             },
             {
                 "type": "brightTile",
                 "x": 736,
-                "y": 344
+                "y": 336
             },
             {
                 "type": "brightTile",
-                "x": 704,
-                "y": 344
+                "x": 112,
+                "y": 336
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 336
             },
             {
                 "type": "trigger",
@@ -7439,42 +8034,57 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 744,
-                "y": 344
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 344
+                "x": 192,
+                "y": 336
             },
             {
                 "type": "darkTile",
-                "x": 8,
-                "y": 344
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
-                "y": 344
-            },
-            {
-                "type": "brightTile",
-                "x": 712,
-                "y": 344
+                "x": 776,
+                "y": 336
             },
             {
                 "type": "darkTile",
-                "x": 16,
-                "y": 344
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
+                "x": 784,
                 "y": 336
             },
             {
                 "type": "brightTile",
-                "x": 672,
+                "x": 528,
+                "y": 336
+            },
+            {
+                "type": "brightTile",
+                "x": 704,
+                "y": 336
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 336
+            },
+            {
+                "type": "brightTile",
+                "x": 120,
+                "y": 336
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 336
+            },
+            {
+                "type": "brightTile",
+                "x": 744,
+                "y": 336
+            },
+            {
+                "type": "brightTile",
+                "x": 200,
+                "y": 336
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
                 "y": 336
             },
             {
@@ -7484,48 +8094,58 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 744,
-                "y": 336
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 336
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
+                "x": 248,
                 "y": 336
             },
             {
                 "type": "brightTile",
-                "x": 48,
+                "x": 600,
                 "y": 336
             },
             {
-                "type": "darkTile",
-                "x": 8,
+                "type": "brightTile",
+                "x": 592,
                 "y": 336
             },
             {
-                "type": "darkTile",
-                "x": 16,
+                "type": "brightTile",
+                "x": 456,
                 "y": 336
+            },
+            {
+                "type": "brightTile",
+                "x": 464,
+                "y": 336
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 328
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 328
             },
             {
                 "type": "brightTile",
                 "x": 736,
-                "y": 336
+                "y": 328
             },
             {
                 "type": "brightTile",
-                "x": 704,
-                "y": 336
+                "x": 592,
+                "y": 328
             },
             {
                 "type": "brightTile",
-                "x": 712,
-                "y": 336
+                "x": 664,
+                "y": 328
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
+                "y": 328
             },
             {
                 "type": "brightTile",
@@ -7534,7 +8154,22 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 736,
+                "x": 744,
+                "y": 328
+            },
+            {
+                "type": "brightTile",
+                "x": 720,
+                "y": 328
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 328
+            },
+            {
+                "type": "brightTile",
+                "x": 600,
                 "y": 328
             },
             {
@@ -7543,13 +8178,28 @@ module.exports = [
                 "y": 328
             },
             {
-                "type": "darkTile",
-                "x": 776,
+                "type": "brightTile",
+                "x": 200,
                 "y": 328
             },
             {
                 "type": "brightTile",
-                "x": 56,
+                "x": 456,
+                "y": 328
+            },
+            {
+                "type": "brightTile",
+                "x": 528,
+                "y": 328
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 328
+            },
+            {
+                "type": "brightTile",
+                "x": 120,
                 "y": 328
             },
             {
@@ -7559,37 +8209,7 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 712,
-                "y": 328
-            },
-            {
-                "type": "brightTile",
-                "x": 720,
-                "y": 328
-            },
-            {
-                "type": "brightTile",
-                "x": 744,
-                "y": 328
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 328
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 328
-            },
-            {
-                "type": "brightTile",
-                "x": 664,
-                "y": 328
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
+                "x": 520,
                 "y": 328
             },
             {
@@ -7599,7 +8219,47 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 720,
+                "x": 56,
+                "y": 328
+            },
+            {
+                "type": "brightTile",
+                "x": 464,
+                "y": 328
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 328
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 328
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 328
+            },
+            {
+                "type": "brightTile",
+                "x": 712,
+                "y": 328
+            },
+            {
+                "type": "brightTile",
+                "x": 328,
+                "y": 320
+            },
+            {
+                "type": "brightTile",
+                "x": 520,
+                "y": 320
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
                 "y": 320
             },
             {
@@ -7609,17 +8269,27 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 744,
+                "x": 336,
                 "y": 320
             },
             {
                 "type": "brightTile",
-                "x": 712,
+                "x": 720,
+                "y": 320
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 320
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
                 "y": 320
             },
             {
                 "type": "darkTile",
-                "x": 8,
+                "x": 784,
                 "y": 320
             },
             {
@@ -7629,6 +8299,26 @@ module.exports = [
             },
             {
                 "type": "brightTile",
+                "x": 592,
+                "y": 320
+            },
+            {
+                "type": "brightTile",
+                "x": 120,
+                "y": 320
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 320
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 320
+            },
+            {
+                "type": "brightTile",
                 "x": 736,
                 "y": 320
             },
@@ -7638,13 +8328,13 @@ module.exports = [
                 "y": 320
             },
             {
-                "type": "darkTile",
-                "x": 776,
+                "type": "brightTile",
+                "x": 112,
                 "y": 320
             },
             {
-                "type": "darkTile",
-                "x": 16,
+                "type": "brightTile",
+                "x": 560,
                 "y": 320
             },
             {
@@ -7654,32 +8344,67 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 48,
+                "x": 600,
+                "y": 320
+            },
+            {
+                "type": "brightTile",
+                "x": 552,
+                "y": 320
+            },
+            {
+                "type": "brightTile",
+                "x": 712,
                 "y": 320
             },
             {
                 "type": "darkTile",
-                "x": 784,
+                "x": 776,
+                "y": 320
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
                 "y": 320
             },
             {
                 "type": "brightTile",
-                "x": 664,
+                "x": 744,
                 "y": 320
             },
             {
                 "type": "brightTile",
-                "x": 664,
+                "x": 528,
+                "y": 320
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 320
+            },
+            {
+                "type": "brightTile",
+                "x": 200,
+                "y": 320
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
                 "y": 312
             },
             {
                 "type": "brightTile",
-                "x": 48,
+                "x": 560,
                 "y": 312
             },
             {
                 "type": "brightTile",
-                "x": 392,
+                "x": 672,
+                "y": 312
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
                 "y": 312
             },
             {
@@ -7689,12 +8414,107 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 400,
+                "x": 664,
                 "y": 312
             },
             {
                 "type": "brightTile",
-                "x": 56,
+                "x": 520,
+                "y": 312
+            },
+            {
+                "type": "brightTile",
+                "x": 592,
+                "y": 312
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 312
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
+                "y": 312
+            },
+            {
+                "type": "brightTile",
+                "x": 120,
+                "y": 312
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 312
+            },
+            {
+                "type": "brightTile",
+                "x": 432,
+                "y": 312
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 312
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 312
+            },
+            {
+                "type": "brightTile",
+                "x": 600,
+                "y": 312
+            },
+            {
+                "type": "brightTile",
+                "x": 552,
+                "y": 312
+            },
+            {
+                "type": "brightTile",
+                "x": 424,
+                "y": 312
+            },
+            {
+                "type": "brightTile",
+                "x": 336,
+                "y": 312
+            },
+            {
+                "type": "brightTile",
+                "x": 528,
+                "y": 312
+            },
+            {
+                "type": "brightTile",
+                "x": 392,
+                "y": 312
+            },
+            {
+                "type": "brightTile",
+                "x": 408,
+                "y": 312
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 312
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 312
+            },
+            {
+                "type": "brightTile",
+                "x": 384,
+                "y": 312
+            },
+            {
+                "type": "brightTile",
+                "x": 328,
                 "y": 312
             },
             {
@@ -7703,8 +8523,8 @@ module.exports = [
                 "y": 312
             },
             {
-                "type": "darkTile",
-                "x": 776,
+                "type": "brightTile",
+                "x": 200,
                 "y": 312
             },
             {
@@ -7714,22 +8534,7 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 384,
-                "y": 312
-            },
-            {
-                "type": "brightTile",
-                "x": 408,
-                "y": 312
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
-                "y": 312
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
+                "x": 400,
                 "y": 312
             },
             {
@@ -7739,22 +8544,42 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 432,
-                "y": 312
+                "x": 200,
+                "y": 304
+            },
+            {
+                "type": "brightTile",
+                "x": 416,
+                "y": 304
             },
             {
                 "type": "brightTile",
                 "x": 424,
-                "y": 312
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 312
+                "y": 304
             },
             {
                 "type": "brightTile",
-                "x": 664,
+                "x": 432,
+                "y": 304
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
+                "y": 304
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 304
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 304
+            },
+            {
+                "type": "brightTile",
+                "x": 152,
                 "y": 304
             },
             {
@@ -7764,37 +8589,12 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 424,
-                "y": 304
-            },
-            {
-                "type": "brightTile",
-                "x": 384,
-                "y": 304
-            },
-            {
-                "type": "brightTile",
-                "x": 408,
-                "y": 304
-            },
-            {
-                "type": "brightTile",
-                "x": 416,
-                "y": 304
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
+                "x": 560,
                 "y": 304
             },
             {
                 "type": "darkTile",
                 "x": 8,
-                "y": 304
-            },
-            {
-                "type": "brightTile",
-                "x": 432,
                 "y": 304
             },
             {
@@ -7804,17 +8604,37 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 56,
+                "x": 592,
                 "y": 304
             },
             {
                 "type": "darkTile",
-                "x": 776,
+                "x": 16,
                 "y": 304
             },
             {
-                "type": "darkTile",
-                "x": 784,
+                "type": "brightTile",
+                "x": 288,
+                "y": 304
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
+                "y": 304
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 304
+            },
+            {
+                "type": "brightTile",
+                "x": 440,
+                "y": 304
+            },
+            {
+                "type": "brightTile",
+                "x": 384,
                 "y": 304
             },
             {
@@ -7829,13 +8649,113 @@ module.exports = [
             },
             {
                 "type": "brightTile",
+                "x": 600,
+                "y": 304
+            },
+            {
+                "type": "brightTile",
                 "x": 400,
                 "y": 304
             },
             {
                 "type": "brightTile",
-                "x": 440,
+                "x": 120,
                 "y": 304
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 304
+            },
+            {
+                "type": "brightTile",
+                "x": 136,
+                "y": 304
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 304
+            },
+            {
+                "type": "brightTile",
+                "x": 328,
+                "y": 304
+            },
+            {
+                "type": "brightTile",
+                "x": 128,
+                "y": 304
+            },
+            {
+                "type": "brightTile",
+                "x": 552,
+                "y": 304
+            },
+            {
+                "type": "brightTile",
+                "x": 336,
+                "y": 304
+            },
+            {
+                "type": "brightTile",
+                "x": 408,
+                "y": 304
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 304
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 304
+            },
+            {
+                "type": "brightTile",
+                "x": 144,
+                "y": 304
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 296
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 296
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 296
+            },
+            {
+                "type": "brightTile",
+                "x": 560,
+                "y": 296
+            },
+            {
+                "type": "brightTile",
+                "x": 120,
+                "y": 296
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 296
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 296
+            },
+            {
+                "type": "brightTile",
+                "x": 328,
+                "y": 296
             },
             {
                 "type": "darkTile",
@@ -7843,8 +8763,73 @@ module.exports = [
                 "y": 296
             },
             {
+                "type": "darkTile",
+                "x": 776,
+                "y": 296
+            },
+            {
                 "type": "brightTile",
-                "x": 48,
+                "x": 136,
+                "y": 296
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 296
+            },
+            {
+                "type": "brightTile",
+                "x": 592,
+                "y": 296
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 296
+            },
+            {
+                "type": "brightTile",
+                "x": 200,
+                "y": 296
+            },
+            {
+                "type": "brightTile",
+                "x": 144,
+                "y": 296
+            },
+            {
+                "type": "brightTile",
+                "x": 128,
+                "y": 296
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 296
+            },
+            {
+                "type": "brightTile",
+                "x": 600,
+                "y": 296
+            },
+            {
+                "type": "brightTile",
+                "x": 552,
+                "y": 296
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
+                "y": 296
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
+                "y": 296
+            },
+            {
+                "type": "brightTile",
+                "x": 336,
                 "y": 296
             },
             {
@@ -7858,28 +8843,108 @@ module.exports = [
                 "y": 296
             },
             {
-                "type": "darkTile",
-                "x": 16,
+                "type": "brightTile",
+                "x": 152,
                 "y": 296
             },
             {
-                "type": "darkTile",
-                "x": 776,
-                "y": 296
+                "type": "brightTile",
+                "x": 712,
+                "y": 288
             },
             {
                 "type": "brightTile",
                 "x": 56,
-                "y": 296
+                "y": 288
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 288
             },
             {
                 "type": "brightTile",
                 "x": 672,
-                "y": 296
+                "y": 288
             },
             {
                 "type": "brightTile",
-                "x": 768,
+                "x": 560,
+                "y": 288
+            },
+            {
+                "type": "brightTile",
+                "x": 680,
+                "y": 288
+            },
+            {
+                "type": "brightTile",
+                "x": 736,
+                "y": 288
+            },
+            {
+                "type": "brightTile",
+                "x": 688,
+                "y": 288
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
+                "y": 288
+            },
+            {
+                "type": "brightTile",
+                "x": 704,
+                "y": 288
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 288
+            },
+            {
+                "type": "brightTile",
+                "x": 592,
+                "y": 288
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 288
+            },
+            {
+                "type": "brightTile",
+                "x": 144,
+                "y": 288
+            },
+            {
+                "type": "brightTile",
+                "x": 696,
+                "y": 288
+            },
+            {
+                "type": "brightTile",
+                "x": 336,
+                "y": 288
+            },
+            {
+                "type": "brightTile",
+                "x": 328,
+                "y": 288
+            },
+            {
+                "type": "brightTile",
+                "x": 752,
+                "y": 288
+            },
+            {
+                "type": "brightTile",
+                "x": 552,
+                "y": 288
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
                 "y": 288
             },
             {
@@ -7894,27 +8959,12 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 704,
+                "x": 240,
                 "y": 288
             },
             {
                 "type": "brightTile",
-                "x": 696,
-                "y": 288
-            },
-            {
-                "type": "brightTile",
-                "x": 688,
-                "y": 288
-            },
-            {
-                "type": "brightTile",
-                "x": 712,
-                "y": 288
-            },
-            {
-                "type": "brightTile",
-                "x": 680,
+                "x": 200,
                 "y": 288
             },
             {
@@ -7923,43 +8973,33 @@ module.exports = [
                 "y": 288
             },
             {
+                "type": "brightTile",
+                "x": 192,
+                "y": 288
+            },
+            {
                 "type": "darkTile",
                 "x": 776,
                 "y": 288
             },
             {
-                "type": "darkTile",
-                "x": 16,
+                "type": "brightTile",
+                "x": 768,
+                "y": 288
+            },
+            {
+                "type": "brightTile",
+                "x": 600,
+                "y": 288
+            },
+            {
+                "type": "brightTile",
+                "x": 152,
                 "y": 288
             },
             {
                 "type": "brightTile",
                 "x": 664,
-                "y": 288
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 288
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 288
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
-                "y": 288
-            },
-            {
-                "type": "brightTile",
-                "x": 736,
-                "y": 288
-            },
-            {
-                "type": "brightTile",
-                "x": 752,
                 "y": 288
             },
             {
@@ -7968,23 +9008,48 @@ module.exports = [
                 "y": 288
             },
             {
-                "type": "darkTile",
-                "x": 8,
+                "type": "brightTile",
+                "x": 600,
                 "y": 280
             },
             {
                 "type": "brightTile",
-                "x": 712,
+                "x": 192,
                 "y": 280
             },
             {
                 "type": "brightTile",
-                "x": 672,
+                "x": 736,
+                "y": 280
+            },
+            {
+                "type": "brightTile",
+                "x": 200,
+                "y": 280
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 280
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
+                "y": 280
+            },
+            {
+                "type": "brightTile",
+                "x": 336,
+                "y": 280
+            },
+            {
+                "type": "brightTile",
+                "x": 704,
                 "y": 280
             },
             {
                 "type": "darkTile",
-                "x": 776,
+                "x": 784,
                 "y": 280
             },
             {
@@ -7994,22 +9059,22 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 48,
+                "x": 288,
                 "y": 280
             },
             {
                 "type": "brightTile",
-                "x": 752,
+                "x": 688,
                 "y": 280
             },
             {
-                "type": "brightTile",
-                "x": 664,
+                "type": "darkTile",
+                "x": 8,
                 "y": 280
             },
             {
-                "type": "brightTile",
-                "x": 760,
+                "type": "darkTile",
+                "x": 16,
                 "y": 280
             },
             {
@@ -8019,43 +9084,158 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 56,
-                "y": 280
-            },
-            {
-                "type": "brightTile",
-                "x": 704,
-                "y": 280
-            },
-            {
-                "type": "brightTile",
-                "x": 688,
-                "y": 280
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 280
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 280
-            },
-            {
-                "type": "brightTile",
                 "x": 696,
                 "y": 280
             },
             {
                 "type": "brightTile",
-                "x": 736,
+                "x": 144,
+                "y": 280
+            },
+            {
+                "type": "brightTile",
+                "x": 152,
+                "y": 280
+            },
+            {
+                "type": "brightTile",
+                "x": 752,
+                "y": 280
+            },
+            {
+                "type": "brightTile",
+                "x": 592,
+                "y": 280
+            },
+            {
+                "type": "brightTile",
+                "x": 712,
+                "y": 280
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
                 "y": 280
             },
             {
                 "type": "brightTile",
                 "x": 768,
                 "y": 280
+            },
+            {
+                "type": "brightTile",
+                "x": 328,
+                "y": 280
+            },
+            {
+                "type": "brightTile",
+                "x": 760,
+                "y": 280
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 280
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 280
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 280
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 280
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 280
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 272
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 272
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 272
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
+                "y": 272
+            },
+            {
+                "type": "brightTile",
+                "x": 600,
+                "y": 272
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 272
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 272
+            },
+            {
+                "type": "brightTile",
+                "x": 144,
+                "y": 272
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 272
+            },
+            {
+                "type": "brightTile",
+                "x": 328,
+                "y": 272
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 272
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 272
+            },
+            {
+                "type": "brightTile",
+                "x": 592,
+                "y": 272
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 272
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 272
+            },
+            {
+                "type": "brightTile",
+                "x": 336,
+                "y": 272
             },
             {
                 "type": "brightTile",
@@ -8064,7 +9244,12 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 48,
+                "x": 152,
+                "y": 272
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
                 "y": 272
             },
             {
@@ -8073,53 +9258,8 @@ module.exports = [
                 "y": 272
             },
             {
-                "type": "brightTile",
-                "x": 664,
-                "y": 272
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 272
-            },
-            {
-                "type": "brightTile",
-                "x": 184,
-                "y": 272
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 272
-            },
-            {
                 "type": "darkTile",
                 "x": 776,
-                "y": 272
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
-                "y": 272
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 272
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 272
-            },
-            {
-                "type": "brightTile",
-                "x": 176,
-                "y": 272
-            },
-            {
-                "type": "brightTile",
-                "x": 464,
                 "y": 264
             },
             {
@@ -8129,32 +9269,22 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 376,
-                "y": 264
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 264
-            },
-            {
-                "type": "trigger",
-                "x": 184,
-                "y": 256
-            },
-            {
-                "type": "brightTile",
-                "x": 664,
+                "x": 384,
                 "y": 264
             },
             {
                 "type": "brightTile",
-                "x": 672,
+                "x": 336,
                 "y": 264
             },
             {
-                "type": "darkTile",
-                "x": 8,
+                "type": "brightTile",
+                "x": 368,
+                "y": 264
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
                 "y": 264
             },
             {
@@ -8164,1447 +9294,2537 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 440,
-                "y": 264
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 264
-            },
-            {
-                "type": "brightTile",
-                "x": 384,
-                "y": 264
-            },
-            {
-                "type": "brightTile",
-                "x": 368,
-                "y": 264
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 264
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 264
-            },
-            {
-                "type": "brightTile",
-                "x": 456,
-                "y": 264
-            },
-            {
-                "type": "brightTile",
-                "x": 432,
-                "y": 264
-            },
-            {
-                "type": "brightTile",
-                "x": 448,
-                "y": 264
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 264
-            },
-            {
-                "type": "brightTile",
-                "x": 368,
-                "y": 256
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 256
-            },
-            {
-                "type": "brightTile",
-                "x": 448,
-                "y": 256
-            },
-            {
-                "type": "brightTile",
-                "x": 400,
-                "y": 256
-            },
-            {
-                "type": "brightTile",
-                "x": 392,
-                "y": 256
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 256
-            },
-            {
-                "type": "brightTile",
-                "x": 440,
-                "y": 256
-            },
-            {
-                "type": "brightTile",
-                "x": 384,
-                "y": 256
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 256
-            },
-            {
-                "type": "brightTile",
-                "x": 432,
-                "y": 256
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 256
-            },
-            {
-                "type": "brightTile",
-                "x": 456,
-                "y": 256
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 256
-            },
-            {
-                "type": "brightTile",
-                "x": 376,
-                "y": 256
-            },
-            {
-                "type": "brightTile",
                 "x": 664,
-                "y": 256
+                "y": 264
             },
             {
                 "type": "brightTile",
-                "x": 48,
-                "y": 256
+                "x": 248,
+                "y": 264
             },
             {
                 "type": "brightTile",
                 "x": 464,
-                "y": 256
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
-                "y": 256
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 248
+                "y": 264
             },
             {
                 "type": "brightTile",
                 "x": 376,
-                "y": 248
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 248
-            },
-            {
-                "type": "trigger",
-                "x": 440,
-                "y": 240
-            },
-            {
-                "type": "brightTile",
-                "x": 368,
-                "y": 248
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
-                "y": 248
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 248
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 248
-            },
-            {
-                "type": "brightTile",
-                "x": 456,
-                "y": 248
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 248
-            },
-            {
-                "type": "brightTile",
-                "x": 464,
-                "y": 248
-            },
-            {
-                "type": "brightTile",
-                "x": 664,
-                "y": 248
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 248
-            },
-            {
-                "type": "brightTile",
-                "x": 704,
-                "y": 240
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 240
-            },
-            {
-                "type": "brightTile",
-                "x": 720,
-                "y": 240
-            },
-            {
-                "type": "brightTile",
-                "x": 368,
-                "y": 240
-            },
-            {
-                "type": "brightTile",
-                "x": 696,
-                "y": 240
-            },
-            {
-                "type": "brightTile",
-                "x": 464,
-                "y": 240
-            },
-            {
-                "type": "brightTile",
-                "x": 688,
-                "y": 240
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 240
-            },
-            {
-                "type": "brightTile",
-                "x": 736,
-                "y": 240
-            },
-            {
-                "type": "brightTile",
-                "x": 664,
-                "y": 240
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 240
-            },
-            {
-                "type": "brightTile",
-                "x": 744,
-                "y": 240
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 240
-            },
-            {
-                "type": "brightTile",
-                "x": 680,
-                "y": 240
-            },
-            {
-                "type": "brightTile",
-                "x": 712,
-                "y": 240
+                "y": 264
             },
             {
                 "type": "darkTile",
                 "x": 16,
-                "y": 240
-            },
-            {
-                "type": "brightTile",
-                "x": 376,
-                "y": 240
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
-                "y": 240
-            },
-            {
-                "type": "brightTile",
-                "x": 728,
-                "y": 240
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 240
-            },
-            {
-                "type": "brightTile",
-                "x": 456,
-                "y": 240
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
-                "y": 232
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 232
-            },
-            {
-                "type": "brightTile",
-                "x": 680,
-                "y": 232
-            },
-            {
-                "type": "brightTile",
-                "x": 376,
-                "y": 232
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 232
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 232
-            },
-            {
-                "type": "brightTile",
-                "x": 688,
-                "y": 232
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 232
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 232
+                "y": 264
             },
             {
                 "type": "brightTile",
                 "x": 48,
-                "y": 232
+                "y": 264
             },
             {
                 "type": "brightTile",
-                "x": 456,
-                "y": 232
-            },
-            {
-                "type": "brightTile",
-                "x": 720,
-                "y": 232
-            },
-            {
-                "type": "brightTile",
-                "x": 664,
-                "y": 232
-            },
-            {
-                "type": "brightTile",
-                "x": 464,
-                "y": 232
-            },
-            {
-                "type": "brightTile",
-                "x": 712,
-                "y": 232
-            },
-            {
-                "type": "brightTile",
-                "x": 744,
-                "y": 232
-            },
-            {
-                "type": "brightTile",
-                "x": 368,
-                "y": 232
-            },
-            {
-                "type": "brightTile",
-                "x": 704,
-                "y": 232
-            },
-            {
-                "type": "brightTile",
-                "x": 728,
-                "y": 232
-            },
-            {
-                "type": "brightTile",
-                "x": 696,
-                "y": 232
-            },
-            {
-                "type": "brightTile",
-                "x": 736,
-                "y": 232
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 224
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 224
-            },
-            {
-                "type": "brightTile",
-                "x": 368,
-                "y": 224
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 224
-            },
-            {
-                "type": "brightTile",
-                "x": 456,
-                "y": 224
-            },
-            {
-                "type": "brightTile",
-                "x": 464,
-                "y": 224
-            },
-            {
-                "type": "brightTile",
-                "x": 376,
-                "y": 224
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
-                "y": 224
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 224
-            },
-            {
-                "type": "brightTile",
-                "x": 664,
-                "y": 224
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 224
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 224
-            },
-            {
-                "type": "brightTile",
-                "x": 368,
-                "y": 216
-            },
-            {
-                "type": "brightTile",
-                "x": 456,
-                "y": 216
-            },
-            {
-                "type": "brightTile",
-                "x": 432,
-                "y": 216
-            },
-            {
-                "type": "brightTile",
-                "x": 400,
-                "y": 216
-            },
-            {
-                "type": "brightTile",
-                "x": 464,
-                "y": 216
-            },
-            {
-                "type": "brightTile",
-                "x": 392,
-                "y": 216
-            },
-            {
-                "type": "brightTile",
-                "x": 664,
-                "y": 216
-            },
-            {
-                "type": "brightTile",
-                "x": 440,
-                "y": 216
-            },
-            {
-                "type": "brightTile",
-                "x": 448,
-                "y": 216
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 216
-            },
-            {
-                "type": "brightTile",
-                "x": 408,
-                "y": 216
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 216
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
-                "y": 216
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 216
-            },
-            {
-                "type": "brightTile",
-                "x": 424,
-                "y": 216
-            },
-            {
-                "type": "brightTile",
-                "x": 384,
-                "y": 216
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 216
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 216
-            },
-            {
-                "type": "brightTile",
-                "x": 416,
-                "y": 216
-            },
-            {
-                "type": "brightTile",
-                "x": 376,
-                "y": 216
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 216
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 208
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 208
-            },
-            {
-                "type": "brightTile",
-                "x": 368,
-                "y": 208
-            },
-            {
-                "type": "brightTile",
-                "x": 392,
-                "y": 208
-            },
-            {
-                "type": "brightTile",
-                "x": 408,
-                "y": 208
-            },
-            {
-                "type": "brightTile",
-                "x": 432,
-                "y": 208
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 208
-            },
-            {
-                "type": "brightTile",
-                "x": 376,
-                "y": 208
-            },
-            {
-                "type": "brightTile",
-                "x": 424,
-                "y": 208
-            },
-            {
-                "type": "brightTile",
-                "x": 400,
-                "y": 208
-            },
-            {
-                "type": "brightTile",
-                "x": 384,
-                "y": 208
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 208
-            },
-            {
-                "type": "brightTile",
-                "x": 456,
-                "y": 208
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 208
-            },
-            {
-                "type": "brightTile",
-                "x": 464,
-                "y": 208
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
-                "y": 208
-            },
-            {
-                "type": "brightTile",
-                "x": 448,
-                "y": 208
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 208
-            },
-            {
-                "type": "brightTile",
-                "x": 416,
-                "y": 208
-            },
-            {
-                "type": "brightTile",
-                "x": 664,
-                "y": 208
-            },
-            {
-                "type": "brightTile",
-                "x": 440,
-                "y": 208
-            },
-            {
-                "type": "brightTile",
-                "x": 744,
-                "y": 200
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 200
-            },
-            {
-                "type": "brightTile",
-                "x": 752,
-                "y": 200
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
-                "y": 200
-            },
-            {
-                "type": "brightTile",
-                "x": 712,
-                "y": 200
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 200
-            },
-            {
-                "type": "brightTile",
-                "x": 768,
-                "y": 200
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 200
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 200
-            },
-            {
-                "type": "brightTile",
-                "x": 704,
-                "y": 200
-            },
-            {
-                "type": "brightTile",
-                "x": 736,
-                "y": 200
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 200
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 200
-            },
-            {
-                "type": "brightTile",
-                "x": 760,
-                "y": 200
-            },
-            {
-                "type": "brightTile",
-                "x": 720,
-                "y": 200
-            },
-            {
-                "type": "brightTile",
-                "x": 664,
-                "y": 200
-            },
-            {
-                "type": "brightTile",
-                "x": 728,
-                "y": 200
-            },
-            {
-                "type": "brightTile",
-                "x": 728,
-                "y": 192
-            },
-            {
-                "type": "brightTile",
-                "x": 720,
-                "y": 192
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
-                "y": 192
-            },
-            {
-                "type": "brightTile",
-                "x": 760,
-                "y": 192
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 192
-            },
-            {
-                "type": "brightTile",
-                "x": 736,
-                "y": 192
-            },
-            {
-                "type": "brightTile",
-                "x": 752,
-                "y": 192
-            },
-            {
-                "type": "brightTile",
-                "x": 664,
-                "y": 192
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 192
-            },
-            {
-                "type": "brightTile",
-                "x": 712,
-                "y": 192
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 192
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 192
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 192
-            },
-            {
-                "type": "brightTile",
-                "x": 704,
-                "y": 192
-            },
-            {
-                "type": "brightTile",
-                "x": 768,
-                "y": 192
-            },
-            {
-                "type": "brightTile",
-                "x": 744,
-                "y": 192
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 192
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 184
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 184
-            },
-            {
-                "type": "brightTile",
-                "x": 664,
-                "y": 184
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
-                "y": 184
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 184
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 184
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 184
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 184
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
-                "y": 176
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 176
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 176
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 176
-            },
-            {
-                "type": "brightTile",
-                "x": 664,
-                "y": 176
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 176
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 176
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 176
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 168
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 168
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
-                "y": 168
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 168
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 168
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 168
-            },
-            {
-                "type": "brightTile",
-                "x": 664,
-                "y": 168
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 168
-            },
-            {
-                "type": "brightTile",
-                "x": 64,
-                "y": 160
-            },
-            {
-                "type": "brightTile",
-                "x": 664,
-                "y": 160
-            },
-            {
-                "type": "brightTile",
-                "x": 88,
-                "y": 160
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 160
-            },
-            {
-                "type": "brightTile",
-                "x": 80,
-                "y": 160
-            },
-            {
-                "type": "brightTile",
-                "x": 104,
-                "y": 160
-            },
-            {
-                "type": "brightTile",
-                "x": 96,
-                "y": 160
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 160
-            },
-            {
-                "type": "brightTile",
-                "x": 72,
-                "y": 160
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 160
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
-                "y": 160
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 160
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 160
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 160
-            },
-            {
-                "type": "brightTile",
-                "x": 720,
-                "y": 152
-            },
-            {
-                "type": "brightTile",
-                "x": 728,
-                "y": 152
-            },
-            {
-                "type": "brightTile",
-                "x": 104,
-                "y": 152
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 152
-            },
-            {
-                "type": "brightTile",
-                "x": 712,
-                "y": 152
-            },
-            {
-                "type": "brightTile",
-                "x": 664,
-                "y": 152
-            },
-            {
-                "type": "brightTile",
-                "x": 72,
-                "y": 152
-            },
-            {
-                "type": "brightTile",
-                "x": 64,
-                "y": 152
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 152
-            },
-            {
-                "type": "brightTile",
-                "x": 688,
-                "y": 152
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 152
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 152
-            },
-            {
-                "type": "brightTile",
-                "x": 680,
-                "y": 152
-            },
-            {
-                "type": "brightTile",
-                "x": 704,
-                "y": 152
-            },
-            {
-                "type": "brightTile",
-                "x": 696,
-                "y": 152
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
-                "y": 152
-            },
-            {
-                "type": "brightTile",
-                "x": 80,
-                "y": 152
-            },
-            {
-                "type": "brightTile",
-                "x": 88,
-                "y": 152
-            },
-            {
-                "type": "brightTile",
-                "x": 736,
-                "y": 152
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 152
-            },
-            {
-                "type": "brightTile",
-                "x": 96,
-                "y": 152
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 152
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 144
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 144
-            },
-            {
-                "type": "brightTile",
-                "x": 664,
-                "y": 144
-            },
-            {
-                "type": "brightTile",
-                "x": 704,
-                "y": 144
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 144
-            },
-            {
-                "type": "trigger",
-                "x": 64,
-                "y": 136
-            },
-            {
-                "type": "brightTile",
-                "x": 688,
-                "y": 144
-            },
-            {
-                "type": "brightTile",
-                "x": 728,
-                "y": 144
-            },
-            {
-                "type": "brightTile",
-                "x": 696,
-                "y": 144
-            },
-            {
-                "type": "brightTile",
-                "x": 736,
-                "y": 144
-            },
-            {
-                "type": "brightTile",
-                "x": 720,
-                "y": 144
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 144
-            },
-            {
-                "type": "brightTile",
-                "x": 712,
-                "y": 144
-            },
-            {
-                "type": "brightTile",
-                "x": 680,
-                "y": 144
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
-                "y": 144
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 144
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 144
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 136
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 136
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 136
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 136
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 136
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 136
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 128
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 128
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 128
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 128
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 128
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 128
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 120
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 120
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 120
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 120
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 120
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 120
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 112
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 112
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 112
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 112
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 112
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 112
-            },
-            {
-                "type": "brightTile",
-                "x": 344,
-                "y": 104
+                "x": 152,
+                "y": 264
             },
             {
                 "type": "brightTile",
                 "x": 328,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 432,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 352,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 504,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 512,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 184,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 72,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 120,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 448,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 576,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 536,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 312,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 616,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 288,
-                "y": 104
+                "y": 264
             },
             {
                 "type": "brightTile",
                 "x": 440,
-                "y": 104
+                "y": 264
             },
             {
                 "type": "brightTile",
-                "x": 304,
+                "x": 448,
+                "y": 264
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 264
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 264
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 264
+            },
+            {
+                "type": "brightTile",
+                "x": 456,
+                "y": 264
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 264
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 264
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 264
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 264
+            },
+            {
+                "type": "brightTile",
+                "x": 432,
+                "y": 264
+            },
+            {
+                "type": "brightTile",
+                "x": 144,
+                "y": 264
+            },
+            {
+                "type": "brightTile",
+                "x": 200,
+                "y": 264
+            },
+            {
+                "type": "brightTile",
+                "x": 400,
+                "y": 256
+            },
+            {
+                "type": "brightTile",
+                "x": 96,
+                "y": 256
+            },
+            {
+                "type": "brightTile",
+                "x": 440,
+                "y": 256
+            },
+            {
+                "type": "brightTile",
+                "x": 336,
+                "y": 256
+            },
+            {
+                "type": "brightTile",
+                "x": 392,
+                "y": 256
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 256
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 256
+            },
+            {
+                "type": "brightTile",
+                "x": 384,
+                "y": 256
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 256
+            },
+            {
+                "type": "brightTile",
+                "x": 456,
+                "y": 256
+            },
+            {
+                "type": "brightTile",
+                "x": 104,
+                "y": 256
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 256
+            },
+            {
+                "type": "brightTile",
+                "x": 448,
+                "y": 256
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 256
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 256
+            },
+            {
+                "type": "brightTile",
+                "x": 200,
+                "y": 256
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 256
+            },
+            {
+                "type": "brightTile",
+                "x": 328,
+                "y": 256
+            },
+            {
+                "type": "brightTile",
+                "x": 144,
+                "y": 256
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 256
+            },
+            {
+                "type": "brightTile",
+                "x": 432,
+                "y": 256
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
+                "y": 256
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 256
+            },
+            {
+                "type": "brightTile",
+                "x": 464,
+                "y": 256
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 256
+            },
+            {
+                "type": "brightTile",
+                "x": 376,
+                "y": 256
+            },
+            {
+                "type": "brightTile",
+                "x": 152,
+                "y": 256
+            },
+            {
+                "type": "brightTile",
+                "x": 368,
+                "y": 256
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 256
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 256
+            },
+            {
+                "type": "brightTile",
+                "x": 96,
+                "y": 248
+            },
+            {
+                "type": "brightTile",
+                "x": 336,
+                "y": 248
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 248
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 248
+            },
+            {
+                "type": "brightTile",
+                "x": 456,
+                "y": 248
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 248
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 248
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 248
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 248
+            },
+            {
+                "type": "brightTile",
+                "x": 376,
+                "y": 248
+            },
+            {
+                "type": "brightTile",
+                "x": 368,
+                "y": 248
+            },
+            {
+                "type": "brightTile",
+                "x": 328,
+                "y": 248
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 248
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 248
+            },
+            {
+                "type": "brightTile",
+                "x": 464,
+                "y": 248
+            },
+            {
+                "type": "brightTile",
+                "x": 104,
+                "y": 248
+            },
+            {
+                "type": "brightTile",
+                "x": 200,
+                "y": 248
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 248
+            },
+            {
+                "type": "brightTile",
+                "x": 152,
+                "y": 248
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 248
+            },
+            {
+                "type": "brightTile",
+                "x": 144,
+                "y": 248
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 248
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
+                "y": 248
+            },
+            {
+                "type": "trigger",
+                "x": 160,
+                "y": 248
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 248
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 728,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 200,
+                "y": 240
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 376,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 368,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 736,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 240
+            },
+            {
+                "type": "trigger",
+                "x": 440,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 464,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 704,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 720,
+                "y": 240
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 336,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 688,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 680,
+                "y": 240
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 144,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 96,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 152,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 104,
+                "y": 240
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 712,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 744,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 456,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 328,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 696,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 240
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 96,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 680,
+                "y": 232
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 232
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 688,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 376,
+                "y": 232
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 456,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 368,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 464,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 104,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 736,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 720,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 144,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 704,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 328,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 696,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 744,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 728,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 152,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 336,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 200,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 712,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 232
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 232
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 224
+            },
+            {
+                "type": "brightTile",
+                "x": 144,
+                "y": 224
+            },
+            {
+                "type": "brightTile",
+                "x": 96,
+                "y": 224
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 224
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 224
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 224
+            },
+            {
+                "type": "brightTile",
+                "x": 328,
+                "y": 224
+            },
+            {
+                "type": "brightTile",
+                "x": 152,
+                "y": 224
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 224
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 224
+            },
+            {
+                "type": "brightTile",
+                "x": 456,
+                "y": 224
+            },
+            {
+                "type": "brightTile",
+                "x": 376,
+                "y": 224
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 224
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 224
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 224
+            },
+            {
+                "type": "brightTile",
+                "x": 368,
+                "y": 224
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
+                "y": 224
+            },
+            {
+                "type": "brightTile",
+                "x": 336,
+                "y": 224
+            },
+            {
+                "type": "brightTile",
+                "x": 464,
+                "y": 224
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 224
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 224
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 224
+            },
+            {
+                "type": "brightTile",
+                "x": 200,
+                "y": 224
+            },
+            {
+                "type": "brightTile",
+                "x": 104,
+                "y": 224
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 432,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 384,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 144,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 336,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 456,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 448,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 400,
+                "y": 216
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 424,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 104,
+                "y": 216
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 328,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 392,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 96,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 408,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 200,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 376,
+                "y": 216
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 368,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 416,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 152,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 440,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 464,
+                "y": 216
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 216
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 216
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 384,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 432,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 440,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 368,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 336,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 104,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 144,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 400,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 456,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 208
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 208
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 376,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 96,
+                "y": 208
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 464,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 200,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 392,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 424,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 416,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 448,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 328,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 152,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 408,
+                "y": 208
+            },
+            {
+                "type": "brightTile",
+                "x": 336,
+                "y": 200
+            },
+            {
+                "type": "brightTile",
+                "x": 104,
+                "y": 200
+            },
+            {
+                "type": "brightTile",
+                "x": 96,
+                "y": 200
+            },
+            {
+                "type": "brightTile",
+                "x": 152,
+                "y": 200
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 200
+            },
+            {
+                "type": "brightTile",
+                "x": 744,
+                "y": 200
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 200
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 200
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
+                "y": 200
+            },
+            {
+                "type": "brightTile",
+                "x": 760,
+                "y": 200
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 200
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 200
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 200
+            },
+            {
+                "type": "brightTile",
+                "x": 720,
+                "y": 200
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 200
+            },
+            {
+                "type": "brightTile",
+                "x": 728,
+                "y": 200
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 200
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 200
+            },
+            {
+                "type": "brightTile",
+                "x": 328,
+                "y": 200
+            },
+            {
+                "type": "brightTile",
+                "x": 752,
+                "y": 200
+            },
+            {
+                "type": "brightTile",
+                "x": 200,
+                "y": 200
+            },
+            {
+                "type": "brightTile",
+                "x": 144,
+                "y": 200
+            },
+            {
+                "type": "brightTile",
+                "x": 768,
+                "y": 200
+            },
+            {
+                "type": "brightTile",
+                "x": 704,
+                "y": 200
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 200
+            },
+            {
+                "type": "brightTile",
+                "x": 712,
+                "y": 200
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 200
+            },
+            {
+                "type": "brightTile",
+                "x": 736,
+                "y": 200
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 200
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 712,
+                "y": 192
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 720,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 728,
+                "y": 192
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 752,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 480,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 768,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 488,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 96,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 336,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 152,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 496,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 144,
+                "y": 192
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 104,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 760,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 520,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 328,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 704,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 512,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 744,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 200,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 736,
+                "y": 192
+            },
+            {
+                "type": "brightTile",
+                "x": 504,
+                "y": 192
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 184
+            },
+            {
+                "type": "brightTile",
+                "x": 496,
+                "y": 184
+            },
+            {
+                "type": "brightTile",
+                "x": 152,
+                "y": 184
+            },
+            {
+                "type": "brightTile",
+                "x": 104,
+                "y": 184
+            },
+            {
+                "type": "brightTile",
+                "x": 488,
+                "y": 184
+            },
+            {
+                "type": "brightTile",
+                "x": 504,
+                "y": 184
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 184
+            },
+            {
+                "type": "brightTile",
+                "x": 96,
+                "y": 184
+            },
+            {
+                "type": "brightTile",
+                "x": 520,
+                "y": 184
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 184
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 184
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 184
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 184
+            },
+            {
+                "type": "brightTile",
+                "x": 144,
+                "y": 184
+            },
+            {
+                "type": "brightTile",
+                "x": 200,
+                "y": 184
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
+                "y": 184
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 184
+            },
+            {
+                "type": "brightTile",
+                "x": 512,
+                "y": 184
+            },
+            {
+                "type": "brightTile",
+                "x": 336,
+                "y": 184
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 184
+            },
+            {
+                "type": "brightTile",
+                "x": 328,
+                "y": 184
+            },
+            {
+                "type": "brightTile",
+                "x": 480,
+                "y": 184
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 184
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 184
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 184
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 184
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
+                "y": 176
+            },
+            {
+                "type": "brightTile",
+                "x": 144,
+                "y": 176
+            },
+            {
+                "type": "brightTile",
+                "x": 104,
+                "y": 176
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 176
+            },
+            {
+                "type": "brightTile",
+                "x": 328,
+                "y": 176
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 176
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 176
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 176
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 176
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 176
+            },
+            {
+                "type": "brightTile",
+                "x": 568,
+                "y": 176
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 176
+            },
+            {
+                "type": "brightTile",
+                "x": 336,
+                "y": 176
+            },
+            {
+                "type": "brightTile",
+                "x": 584,
+                "y": 176
+            },
+            {
+                "type": "brightTile",
+                "x": 552,
+                "y": 176
+            },
+            {
+                "type": "brightTile",
+                "x": 152,
+                "y": 176
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 176
+            },
+            {
+                "type": "brightTile",
+                "x": 96,
+                "y": 176
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 176
+            },
+            {
+                "type": "brightTile",
+                "x": 576,
+                "y": 176
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 176
+            },
+            {
+                "type": "brightTile",
+                "x": 560,
+                "y": 176
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 176
+            },
+            {
+                "type": "brightTile",
+                "x": 328,
+                "y": 168
+            },
+            {
+                "type": "brightTile",
+                "x": 552,
+                "y": 168
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 168
+            },
+            {
+                "type": "brightTile",
+                "x": 576,
+                "y": 168
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 168
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 168
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 168
+            },
+            {
+                "type": "brightTile",
+                "x": 584,
+                "y": 168
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 168
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 168
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
+                "y": 168
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 168
+            },
+            {
+                "type": "brightTile",
+                "x": 152,
+                "y": 168
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 168
+            },
+            {
+                "type": "brightTile",
+                "x": 144,
+                "y": 168
+            },
+            {
+                "type": "brightTile",
+                "x": 568,
+                "y": 168
+            },
+            {
+                "type": "brightTile",
+                "x": 336,
+                "y": 168
+            },
+            {
+                "type": "brightTile",
+                "x": 104,
+                "y": 168
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 168
+            },
+            {
+                "type": "brightTile",
+                "x": 560,
+                "y": 168
+            },
+            {
+                "type": "brightTile",
+                "x": 96,
+                "y": 168
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 168
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 168
+            },
+            {
+                "type": "brightTile",
+                "x": 152,
+                "y": 160
+            },
+            {
+                "type": "brightTile",
+                "x": 336,
+                "y": 160
+            },
+            {
+                "type": "brightTile",
+                "x": 616,
+                "y": 160
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 160
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 160
+            },
+            {
+                "type": "brightTile",
+                "x": 88,
+                "y": 160
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 160
+            },
+            {
+                "type": "brightTile",
+                "x": 96,
+                "y": 160
+            },
+            {
+                "type": "brightTile",
+                "x": 328,
+                "y": 160
+            },
+            {
+                "type": "brightTile",
+                "x": 64,
+                "y": 160
+            },
+            {
+                "type": "brightTile",
+                "x": 624,
+                "y": 160
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
+                "y": 160
+            },
+            {
+                "type": "brightTile",
+                "x": 104,
+                "y": 160
+            },
+            {
+                "type": "brightTile",
+                "x": 640,
+                "y": 160
+            },
+            {
+                "type": "brightTile",
+                "x": 72,
+                "y": 160
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 160
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 160
+            },
+            {
+                "type": "brightTile",
+                "x": 608,
+                "y": 160
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 160
+            },
+            {
+                "type": "brightTile",
+                "x": 144,
+                "y": 160
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 160
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 160
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 160
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 160
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 160
+            },
+            {
+                "type": "brightTile",
+                "x": 80,
+                "y": 160
+            },
+            {
+                "type": "brightTile",
+                "x": 632,
+                "y": 160
+            },
+            {
+                "type": "brightTile",
+                "x": 624,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 712,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 720,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 696,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 616,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 96,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 640,
+                "y": 152
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 152
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 728,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 64,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
+                "y": 152
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 152,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 328,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 704,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 80,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 336,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 608,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 72,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 632,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 200,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 680,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 88,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 144,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 736,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 104,
+                "y": 152
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 688,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 152
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 144
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 144
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 144
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 144
+            },
+            {
+                "type": "brightTile",
+                "x": 152,
+                "y": 144
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 144
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 144
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 144
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
+                "y": 144
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 144
+            },
+            {
+                "type": "brightTile",
+                "x": 200,
+                "y": 144
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 144
+            },
+            {
+                "type": "brightTile",
+                "x": 328,
+                "y": 144
+            },
+            {
+                "type": "brightTile",
+                "x": 720,
+                "y": 144
+            },
+            {
+                "type": "brightTile",
+                "x": 336,
+                "y": 144
+            },
+            {
+                "type": "brightTile",
+                "x": 704,
+                "y": 144
+            },
+            {
+                "type": "brightTile",
+                "x": 144,
+                "y": 144
+            },
+            {
+                "type": "brightTile",
+                "x": 696,
+                "y": 144
+            },
+            {
+                "type": "brightTile",
+                "x": 712,
+                "y": 144
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 144
+            },
+            {
+                "type": "brightTile",
+                "x": 736,
+                "y": 144
+            },
+            {
+                "type": "brightTile",
+                "x": 688,
+                "y": 144
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 144
+            },
+            {
+                "type": "brightTile",
+                "x": 728,
+                "y": 144
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 144
+            },
+            {
+                "type": "brightTile",
+                "x": 680,
+                "y": 144
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
+                "y": 136
+            },
+            {
+                "type": "brightTile",
+                "x": 328,
+                "y": 136
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 136
+            },
+            {
+                "type": "trigger",
+                "x": 64,
+                "y": 136
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 136
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 136
+            },
+            {
+                "type": "brightTile",
+                "x": 144,
+                "y": 136
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 136
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 136
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 136
+            },
+            {
+                "type": "brightTile",
+                "x": 336,
+                "y": 136
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 136
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 136
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 136
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 136
+            },
+            {
+                "type": "brightTile",
+                "x": 152,
+                "y": 136
+            },
+            {
+                "type": "brightTile",
+                "x": 200,
+                "y": 136
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 128
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
+                "y": 128
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 128
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 128
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 128
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 128
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 128
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 128
+            },
+            {
+                "type": "brightTile",
+                "x": 200,
+                "y": 128
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 128
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 120
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 120
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 120
+            },
+            {
+                "type": "brightTile",
+                "x": 200,
+                "y": 120
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
+                "y": 120
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 120
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 120
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 120
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 120
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 120
+            },
+            {
+                "type": "brightTile",
+                "x": 200,
+                "y": 112
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 112
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 112
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 112
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 112
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 112
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 112
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
+                "y": 112
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 112
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 112
+            },
+            {
+                "type": "brightTile",
+                "x": 496,
                 "y": 104
             },
             {
@@ -9614,277 +11834,12 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 520,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 560,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 88,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 232,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 64,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 592,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 272,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 608,
-                "y": 104
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 136,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 336,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 528,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 112,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 584,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 160,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 640,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 632,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 624,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 424,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 152,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 648,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 296,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 176,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 360,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 192,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 104,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 48,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 208,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 320,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 376,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 168,
-                "y": 104
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 568,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 240,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
                 "x": 544,
                 "y": 104
             },
             {
                 "type": "brightTile",
-                "x": 264,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 400,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 488,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 384,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 368,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 144,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 600,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 472,
-                "y": 104
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 104
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 96,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 128,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 216,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 256,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 552,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 496,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 408,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 456,
-                "y": 104
-            },
-            {
-                "type": "brightTile",
-                "x": 416,
+                "x": 336,
                 "y": 104
             },
             {
@@ -9894,7 +11849,52 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 392,
+                "x": 608,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 216,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 520,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 312,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 624,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 104
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 488,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 184,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 136,
                 "y": 104
             },
             {
@@ -9904,12 +11904,252 @@ module.exports = [
             },
             {
                 "type": "brightTile",
+                "x": 152,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 536,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 472,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 560,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 424,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 616,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 376,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 568,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 160,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 432,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 528,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 112,
+                "y": 104
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 368,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 400,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 80,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 648,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 304,
+                "y": 104
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 104
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 72,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 440,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 96,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 600,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 344,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 456,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 256,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 272,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 632,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 88,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 584,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 104,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 592,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 360,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 64,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 416,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 352,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 512,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 264,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 504,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 552,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
                 "x": 224,
                 "y": 104
             },
             {
                 "type": "brightTile",
-                "x": 200,
+                "x": 296,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 408,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 128,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 448,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 384,
                 "y": 104
             },
             {
@@ -9919,117 +12159,72 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 80,
+                "x": 392,
                 "y": 104
             },
             {
                 "type": "brightTile",
-                "x": 456,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 712,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 552,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 216,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 528,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 664,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 584,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
                 "x": 200,
-                "y": 96
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 208,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 168,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 576,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 120,
+                "y": 104
+            },
+            {
+                "type": "brightTile",
+                "x": 144,
+                "y": 104
             },
             {
                 "type": "brightTile",
                 "x": 232,
-                "y": 96
+                "y": 104
             },
             {
                 "type": "brightTile",
-                "x": 160,
-                "y": 96
+                "x": 176,
+                "y": 104
             },
             {
                 "type": "brightTile",
-                "x": 264,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 296,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 192,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 592,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 504,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 152,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
-                "y": 96
+                "x": 640,
+                "y": 104
             },
             {
                 "type": "brightTile",
                 "x": 320,
-                "y": 96
+                "y": 104
             },
             {
                 "type": "brightTile",
-                "x": 96,
-                "y": 96
+                "x": 328,
+                "y": 104
             },
             {
                 "type": "brightTile",
-                "x": 752,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 136,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 128,
+                "x": 656,
                 "y": 96
             },
             {
@@ -10038,93 +12233,8 @@ module.exports = [
                 "y": 96
             },
             {
-                "type": "brightTile",
-                "x": 80,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 120,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 480,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 648,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 384,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 328,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 272,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 112,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 688,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 288,
-                "y": 96
-            },
-            {
                 "type": "darkTile",
-                "x": 16,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 72,
-                "y": 96
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 176,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 768,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 392,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 720,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 440,
+                "x": 8,
                 "y": 96
             },
             {
@@ -10134,172 +12244,7 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 104,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 632,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
                 "x": 304,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 576,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 616,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 704,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 224,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 464,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 640,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 424,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 360,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 408,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 240,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 624,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 256,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 344,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 64,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 56,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 336,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 728,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 208,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 608,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 416,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 600,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 432,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 560,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 736,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 472,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 544,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 536,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 400,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 280,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 496,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 512,
                 "y": 96
             },
             {
@@ -10309,72 +12254,57 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 448,
-                "y": 96
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
+                "x": 416,
                 "y": 96
             },
             {
                 "type": "brightTile",
-                "x": 352,
+                "x": 528,
                 "y": 96
             },
             {
                 "type": "brightTile",
-                "x": 376,
+                "x": 544,
                 "y": 96
             },
             {
                 "type": "brightTile",
-                "x": 520,
+                "x": 160,
                 "y": 96
             },
             {
                 "type": "brightTile",
-                "x": 48,
+                "x": 632,
                 "y": 96
             },
             {
                 "type": "brightTile",
-                "x": 88,
+                "x": 104,
                 "y": 96
             },
             {
                 "type": "brightTile",
-                "x": 368,
+                "x": 216,
                 "y": 96
             },
             {
                 "type": "brightTile",
-                "x": 744,
+                "x": 176,
                 "y": 96
             },
             {
                 "type": "brightTile",
-                "x": 488,
+                "x": 112,
                 "y": 96
             },
             {
                 "type": "brightTile",
-                "x": 144,
+                "x": 552,
                 "y": 96
             },
             {
                 "type": "brightTile",
-                "x": 568,
-                "y": 96
-            },
-            {
-                "type": "brightTile",
-                "x": 680,
-                "y": 96
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
+                "x": 96,
                 "y": 96
             },
             {
@@ -10384,7 +12314,367 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 248,
+                "x": 360,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 288,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 520,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 680,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 224,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 688,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 592,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 280,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 88,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 136,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 352,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 48,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 272,
+                "y": 96
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 584,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 704,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 712,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 728,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 640,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 328,
+                "y": 96
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 64,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 240,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 456,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 744,
+                "y": 96
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 232,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 120,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 208,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 368,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 440,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 264,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 472,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 664,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 488,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 752,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 144,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 296,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 648,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 768,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 464,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 624,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 736,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 568,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 72,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 376,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 560,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 56,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 200,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 480,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 616,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 152,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 576,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 344,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 496,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 336,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 256,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 192,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 320,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 384,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 424,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 400,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 392,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 408,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 80,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 432,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 720,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 128,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 512,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 608,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 448,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 600,
                 "y": 96
             },
             {
@@ -10394,12 +12684,47 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 656,
+                "x": 504,
                 "y": 96
             },
             {
                 "type": "brightTile",
-                "x": 688,
+                "x": 536,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 248,
+                "y": 96
+            },
+            {
+                "type": "brightTile",
+                "x": 648,
+                "y": 88
+            },
+            {
+                "type": "brightTile",
+                "x": 752,
+                "y": 88
+            },
+            {
+                "type": "brightTile",
+                "x": 760,
+                "y": 88
+            },
+            {
+                "type": "brightTile",
+                "x": 768,
+                "y": 88
+            },
+            {
+                "type": "brightTile",
+                "x": 672,
+                "y": 88
+            },
+            {
+                "type": "brightTile",
+                "x": 704,
                 "y": 88
             },
             {
@@ -10409,12 +12734,32 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 712,
+                "x": 696,
+                "y": 88
+            },
+            {
+                "type": "brightTile",
+                "x": 680,
+                "y": 88
+            },
+            {
+                "type": "brightTile",
+                "x": 736,
+                "y": 88
+            },
+            {
+                "type": "brightTile",
+                "x": 688,
                 "y": 88
             },
             {
                 "type": "darkTile",
                 "x": 16,
+                "y": 88
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
                 "y": 88
             },
             {
@@ -10424,7 +12769,17 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 648,
+                "x": 656,
+                "y": 88
+            },
+            {
+                "type": "brightTile",
+                "x": 744,
+                "y": 88
+            },
+            {
+                "type": "brightTile",
+                "x": 712,
                 "y": 88
             },
             {
@@ -10439,72 +12794,17 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 696,
-                "y": 88
-            },
-            {
-                "type": "brightTile",
-                "x": 672,
-                "y": 88
-            },
-            {
-                "type": "brightTile",
-                "x": 656,
-                "y": 88
-            },
-            {
-                "type": "brightTile",
-                "x": 704,
-                "y": 88
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 88
-            },
-            {
-                "type": "brightTile",
-                "x": 752,
-                "y": 88
-            },
-            {
-                "type": "brightTile",
-                "x": 736,
-                "y": 88
-            },
-            {
-                "type": "brightTile",
-                "x": 680,
-                "y": 88
-            },
-            {
-                "type": "brightTile",
                 "x": 728,
                 "y": 88
             },
             {
-                "type": "brightTile",
-                "x": 768,
-                "y": 88
-            },
-            {
-                "type": "brightTile",
-                "x": 744,
-                "y": 88
-            },
-            {
-                "type": "brightTile",
-                "x": 760,
-                "y": 88
-            },
-            {
-                "type": "effect",
-                "x": 400,
+                "type": "darkTile",
+                "x": 16,
                 "y": 80
             },
             {
-                "type": "darkTile",
-                "x": 16,
+                "type": "effect",
+                "x": 560,
                 "y": 80
             },
             {
@@ -10514,7 +12814,17 @@ module.exports = [
             },
             {
                 "type": "darkTile",
-                "x": 8,
+                "x": 784,
+                "y": 80
+            },
+            {
+                "type": "effect",
+                "x": 448,
+                "y": 80
+            },
+            {
+                "type": "effect",
+                "x": 608,
                 "y": 80
             },
             {
@@ -10524,27 +12834,107 @@ module.exports = [
             },
             {
                 "type": "effect",
-                "x": 608,
+                "x": 400,
                 "y": 80
             },
             {
                 "type": "darkTile",
-                "x": 784,
-                "y": 80
-            },
-            {
-                "type": "effect",
-                "x": 560,
-                "y": 80
-            },
-            {
-                "type": "effect",
-                "x": 448,
+                "x": 8,
                 "y": 80
             },
             {
                 "type": "brightTile",
+                "x": 616,
+                "y": 72
+            },
+            {
+                "type": "brightTile",
+                "x": 600,
+                "y": 72
+            },
+            {
+                "type": "brightTile",
+                "x": 512,
+                "y": 72
+            },
+            {
+                "type": "brightTile",
                 "x": 552,
+                "y": 72
+            },
+            {
+                "type": "brightTile",
+                "x": 408,
+                "y": 72
+            },
+            {
+                "type": "brightTile",
+                "x": 496,
+                "y": 72
+            },
+            {
+                "type": "brightTile",
+                "x": 440,
+                "y": 72
+            },
+            {
+                "type": "brightTile",
+                "x": 568,
+                "y": 72
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 72
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 72
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 72
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 72
+            },
+            {
+                "type": "brightTile",
+                "x": 560,
+                "y": 72
+            },
+            {
+                "type": "brightTile",
+                "x": 400,
+                "y": 72
+            },
+            {
+                "type": "brightTile",
+                "x": 392,
+                "y": 72
+            },
+            {
+                "type": "brightTile",
+                "x": 608,
+                "y": 72
+            },
+            {
+                "type": "brightTile",
+                "x": 504,
+                "y": 72
+            },
+            {
+                "type": "brightTile",
+                "x": 448,
+                "y": 72
+            },
+            {
+                "type": "brightTile",
+                "x": 456,
                 "y": 72
             },
             {
@@ -10554,162 +12944,12 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 496,
-                "y": 72
-            },
-            {
-                "type": "brightTile",
-                "x": 400,
-                "y": 72
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 72
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 72
-            },
-            {
-                "type": "brightTile",
-                "x": 408,
-                "y": 72
-            },
-            {
-                "type": "brightTile",
-                "x": 512,
-                "y": 72
-            },
-            {
-                "type": "brightTile",
-                "x": 448,
-                "y": 72
-            },
-            {
-                "type": "brightTile",
-                "x": 568,
-                "y": 72
-            },
-            {
-                "type": "brightTile",
-                "x": 440,
-                "y": 72
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 72
-            },
-            {
-                "type": "brightTile",
-                "x": 392,
-                "y": 72
-            },
-            {
-                "type": "brightTile",
-                "x": 560,
-                "y": 72
-            },
-            {
-                "type": "brightTile",
-                "x": 616,
-                "y": 72
-            },
-            {
-                "type": "brightTile",
-                "x": 600,
-                "y": 72
-            },
-            {
-                "type": "brightTile",
-                "x": 608,
-                "y": 72
-            },
-            {
-                "type": "brightTile",
-                "x": 456,
-                "y": 72
-            },
-            {
-                "type": "brightTile",
-                "x": 504,
-                "y": 72
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 72
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 64
-            },
-            {
-                "type": "brightTile",
-                "x": 504,
-                "y": 64
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 64
-            },
-            {
-                "type": "brightTile",
-                "x": 448,
-                "y": 64
-            },
-            {
-                "type": "brightTile",
-                "x": 392,
-                "y": 64
-            },
-            {
-                "type": "brightTile",
                 "x": 512,
                 "y": 64
             },
             {
                 "type": "brightTile",
-                "x": 568,
-                "y": 64
-            },
-            {
-                "type": "brightTile",
-                "x": 456,
-                "y": 64
-            },
-            {
-                "type": "brightTile",
-                "x": 400,
-                "y": 64
-            },
-            {
-                "type": "brightTile",
-                "x": 560,
-                "y": 64
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 64
-            },
-            {
-                "type": "brightTile",
-                "x": 600,
-                "y": 64
-            },
-            {
-                "type": "brightTile",
-                "x": 552,
-                "y": 64
-            },
-            {
-                "type": "brightTile",
-                "x": 616,
+                "x": 504,
                 "y": 64
             },
             {
@@ -10719,7 +12959,37 @@ module.exports = [
             },
             {
                 "type": "brightTile",
+                "x": 560,
+                "y": 64
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 64
+            },
+            {
+                "type": "brightTile",
                 "x": 408,
+                "y": 64
+            },
+            {
+                "type": "brightTile",
+                "x": 392,
+                "y": 64
+            },
+            {
+                "type": "brightTile",
+                "x": 552,
+                "y": 64
+            },
+            {
+                "type": "brightTile",
+                "x": 568,
+                "y": 64
+            },
+            {
+                "type": "brightTile",
+                "x": 400,
                 "y": 64
             },
             {
@@ -10734,7 +13004,22 @@ module.exports = [
             },
             {
                 "type": "brightTile",
+                "x": 448,
+                "y": 64
+            },
+            {
+                "type": "brightTile",
+                "x": 616,
+                "y": 64
+            },
+            {
+                "type": "brightTile",
                 "x": 608,
+                "y": 64
+            },
+            {
+                "type": "brightTile",
+                "x": 456,
                 "y": 64
             },
             {
@@ -10743,83 +13028,23 @@ module.exports = [
                 "y": 64
             },
             {
-                "type": "darkTile",
-                "x": 8,
-                "y": 56
-            },
-            {
                 "type": "brightTile",
                 "x": 600,
-                "y": 56
-            },
-            {
-                "type": "brightTile",
-                "x": 560,
-                "y": 56
-            },
-            {
-                "type": "brightTile",
-                "x": 552,
-                "y": 56
-            },
-            {
-                "type": "brightTile",
-                "x": 448,
-                "y": 56
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 56
-            },
-            {
-                "type": "brightTile",
-                "x": 568,
-                "y": 56
-            },
-            {
-                "type": "brightTile",
-                "x": 400,
-                "y": 56
-            },
-            {
-                "type": "brightTile",
-                "x": 440,
-                "y": 56
-            },
-            {
-                "type": "brightTile",
-                "x": 512,
-                "y": 56
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 56
+                "y": 64
             },
             {
                 "type": "darkTile",
                 "x": 784,
-                "y": 56
+                "y": 64
             },
             {
-                "type": "brightTile",
-                "x": 392,
-                "y": 56
+                "type": "darkTile",
+                "x": 776,
+                "y": 64
             },
             {
-                "type": "brightTile",
-                "x": 608,
-                "y": 56
-            },
-            {
-                "type": "brightTile",
-                "x": 496,
-                "y": 56
-            },
-            {
-                "type": "brightTile",
-                "x": 456,
+                "type": "darkTile",
+                "x": 776,
                 "y": 56
             },
             {
@@ -10829,7 +13054,52 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 616,
+                "x": 448,
+                "y": 56
+            },
+            {
+                "type": "brightTile",
+                "x": 512,
+                "y": 56
+            },
+            {
+                "type": "brightTile",
+                "x": 568,
+                "y": 56
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 56
+            },
+            {
+                "type": "brightTile",
+                "x": 552,
+                "y": 56
+            },
+            {
+                "type": "brightTile",
+                "x": 440,
+                "y": 56
+            },
+            {
+                "type": "brightTile",
+                "x": 456,
+                "y": 56
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 56
+            },
+            {
+                "type": "brightTile",
+                "x": 560,
+                "y": 56
+            },
+            {
+                "type": "brightTile",
+                "x": 400,
                 "y": 56
             },
             {
@@ -10839,27 +13109,72 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 560,
+                "x": 496,
+                "y": 56
+            },
+            {
+                "type": "brightTile",
+                "x": 616,
+                "y": 56
+            },
+            {
+                "type": "brightTile",
+                "x": 608,
+                "y": 56
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 56
+            },
+            {
+                "type": "brightTile",
+                "x": 600,
+                "y": 56
+            },
+            {
+                "type": "brightTile",
+                "x": 392,
+                "y": 56
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
                 "y": 48
             },
             {
                 "type": "brightTile",
-                "x": 552,
+                "x": 568,
                 "y": 48
             },
             {
                 "type": "brightTile",
-                "x": 448,
+                "x": 616,
                 "y": 48
             },
             {
                 "type": "brightTile",
-                "x": 440,
+                "x": 496,
                 "y": 48
             },
             {
                 "type": "darkTile",
                 "x": 776,
+                "y": 48
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 48
+            },
+            {
+                "type": "brightTile",
+                "x": 400,
+                "y": 48
+            },
+            {
+                "type": "brightTile",
+                "x": 504,
                 "y": 48
             },
             {
@@ -10874,82 +13189,52 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 400,
-                "y": 48
-            },
-            {
-                "type": "brightTile",
-                "x": 512,
-                "y": 48
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 48
-            },
-            {
-                "type": "brightTile",
-                "x": 616,
-                "y": 48
-            },
-            {
-                "type": "brightTile",
-                "x": 456,
-                "y": 48
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 48
-            },
-            {
-                "type": "brightTile",
-                "x": 568,
-                "y": 48
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 48
-            },
-            {
-                "type": "brightTile",
-                "x": 496,
-                "y": 48
-            },
-            {
-                "type": "brightTile",
-                "x": 392,
-                "y": 48
-            },
-            {
-                "type": "brightTile",
                 "x": 608,
                 "y": 48
             },
             {
                 "type": "brightTile",
-                "x": 504,
+                "x": 448,
+                "y": 48
+            },
+            {
+                "type": "brightTile",
+                "x": 560,
                 "y": 48
             },
             {
                 "type": "brightTile",
                 "x": 456,
-                "y": 40
+                "y": 48
             },
             {
                 "type": "darkTile",
-                "x": 16,
-                "y": 40
+                "x": 784,
+                "y": 48
             },
             {
                 "type": "brightTile",
                 "x": 440,
-                "y": 40
+                "y": 48
             },
             {
                 "type": "brightTile",
-                "x": 496,
+                "x": 512,
+                "y": 48
+            },
+            {
+                "type": "brightTile",
+                "x": 392,
+                "y": 48
+            },
+            {
+                "type": "brightTile",
+                "x": 552,
+                "y": 48
+            },
+            {
+                "type": "brightTile",
+                "x": 400,
                 "y": 40
             },
             {
@@ -10959,27 +13244,12 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 552,
-                "y": 40
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
+                "x": 496,
                 "y": 40
             },
             {
                 "type": "brightTile",
-                "x": 568,
-                "y": 40
-            },
-            {
-                "type": "brightTile",
-                "x": 400,
-                "y": 40
-            },
-            {
-                "type": "brightTile",
-                "x": 392,
+                "x": 616,
                 "y": 40
             },
             {
@@ -10989,7 +13259,37 @@ module.exports = [
             },
             {
                 "type": "brightTile",
+                "x": 392,
+                "y": 40
+            },
+            {
+                "type": "brightTile",
+                "x": 560,
+                "y": 40
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 40
+            },
+            {
+                "type": "brightTile",
                 "x": 608,
+                "y": 40
+            },
+            {
+                "type": "brightTile",
+                "x": 504,
+                "y": 40
+            },
+            {
+                "type": "brightTile",
+                "x": 552,
+                "y": 40
+            },
+            {
+                "type": "brightTile",
+                "x": 448,
                 "y": 40
             },
             {
@@ -10999,12 +13299,22 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 560,
+                "x": 440,
+                "y": 40
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
                 "y": 40
             },
             {
                 "type": "brightTile",
-                "x": 616,
+                "x": 568,
+                "y": 40
+            },
+            {
+                "type": "brightTile",
+                "x": 456,
                 "y": 40
             },
             {
@@ -11013,19 +13323,24 @@ module.exports = [
                 "y": 40
             },
             {
-                "type": "brightTile",
-                "x": 504,
-                "y": 40
-            },
-            {
                 "type": "darkTile",
                 "x": 776,
                 "y": 40
             },
             {
                 "type": "brightTile",
+                "x": 496,
+                "y": 32
+            },
+            {
+                "type": "brightTile",
+                "x": 408,
+                "y": 32
+            },
+            {
+                "type": "brightTile",
                 "x": 448,
-                "y": 40
+                "y": 32
             },
             {
                 "type": "brightTile",
@@ -11034,27 +13349,12 @@ module.exports = [
             },
             {
                 "type": "darkTile",
-                "x": 776,
+                "x": 8,
                 "y": 32
             },
             {
                 "type": "brightTile",
-                "x": 568,
-                "y": 32
-            },
-            {
-                "type": "brightTile",
-                "x": 392,
-                "y": 32
-            },
-            {
-                "type": "brightTile",
-                "x": 504,
-                "y": 32
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
+                "x": 600,
                 "y": 32
             },
             {
@@ -11064,42 +13364,12 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 600,
-                "y": 32
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
+                "x": 512,
                 "y": 32
             },
             {
                 "type": "brightTile",
-                "x": 560,
-                "y": 32
-            },
-            {
-                "type": "brightTile",
-                "x": 496,
-                "y": 32
-            },
-            {
-                "type": "brightTile",
-                "x": 616,
-                "y": 32
-            },
-            {
-                "type": "brightTile",
-                "x": 440,
-                "y": 32
-            },
-            {
-                "type": "brightTile",
-                "x": 448,
-                "y": 32
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
+                "x": 392,
                 "y": 32
             },
             {
@@ -11109,23 +13379,48 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 512,
-                "y": 32
-            },
-            {
-                "type": "brightTile",
                 "x": 400,
                 "y": 32
             },
             {
                 "type": "brightTile",
-                "x": 408,
+                "x": 616,
+                "y": 32
+            },
+            {
+                "type": "brightTile",
+                "x": 504,
+                "y": 32
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 32
+            },
+            {
+                "type": "darkTile",
+                "x": 776,
+                "y": 32
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
                 "y": 32
             },
             {
                 "type": "brightTile",
                 "x": 568,
-                "y": 24
+                "y": 32
+            },
+            {
+                "type": "brightTile",
+                "x": 440,
+                "y": 32
+            },
+            {
+                "type": "brightTile",
+                "x": 560,
+                "y": 32
             },
             {
                 "type": "brightTile",
@@ -11133,28 +13428,43 @@ module.exports = [
                 "y": 24
             },
             {
-                "type": "brightTile",
-                "x": 512,
+                "type": "darkTile",
+                "x": 776,
+                "y": 24
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
                 "y": 24
             },
             {
                 "type": "brightTile",
-                "x": 400,
+                "x": 448,
                 "y": 24
             },
             {
                 "type": "brightTile",
-                "x": 560,
+                "x": 496,
                 "y": 24
             },
             {
                 "type": "brightTile",
-                "x": 408,
+                "x": 616,
                 "y": 24
             },
             {
                 "type": "brightTile",
                 "x": 552,
+                "y": 24
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 24
+            },
+            {
+                "type": "brightTile",
+                "x": 400,
                 "y": 24
             },
             {
@@ -11164,32 +13474,12 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 448,
-                "y": 24
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
+                "x": 512,
                 "y": 24
             },
             {
                 "type": "brightTile",
-                "x": 616,
-                "y": 24
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 24
-            },
-            {
-                "type": "darkTile",
-                "x": 8,
-                "y": 24
-            },
-            {
-                "type": "brightTile",
-                "x": 456,
+                "x": 608,
                 "y": 24
             },
             {
@@ -11199,7 +13489,17 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 608,
+                "x": 568,
+                "y": 24
+            },
+            {
+                "type": "brightTile",
+                "x": 408,
+                "y": 24
+            },
+            {
+                "type": "brightTile",
+                "x": 456,
                 "y": 24
             },
             {
@@ -11209,7 +13509,7 @@ module.exports = [
             },
             {
                 "type": "brightTile",
-                "x": 496,
+                "x": 560,
                 "y": 24
             },
             {
@@ -11219,37 +13519,67 @@ module.exports = [
             },
             {
                 "type": "darkTile",
-                "x": 672,
+                "x": 272,
                 "y": 16
             },
             {
                 "type": "darkTile",
-                "x": 344,
+                "x": 440,
                 "y": 16
             },
             {
                 "type": "darkTile",
-                "x": 336,
+                "x": 448,
                 "y": 16
             },
             {
                 "type": "darkTile",
-                "x": 432,
+                "x": 752,
                 "y": 16
             },
             {
                 "type": "darkTile",
-                "x": 16,
+                "x": 48,
                 "y": 16
             },
             {
                 "type": "darkTile",
-                "x": 576,
+                "x": 568,
                 "y": 16
             },
             {
                 "type": "darkTile",
-                "x": 248,
+                "x": 704,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 600,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 376,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 144,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 88,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 472,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 536,
                 "y": 16
             },
             {
@@ -11259,17 +13589,22 @@ module.exports = [
             },
             {
                 "type": "darkTile",
-                "x": 512,
+                "x": 240,
                 "y": 16
             },
             {
                 "type": "darkTile",
-                "x": 400,
+                "x": 696,
                 "y": 16
             },
             {
                 "type": "darkTile",
-                "x": 224,
+                "x": 648,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 592,
                 "y": 16
             },
             {
@@ -11279,32 +13614,117 @@ module.exports = [
             },
             {
                 "type": "darkTile",
-                "x": 768,
+                "x": 576,
                 "y": 16
             },
             {
                 "type": "darkTile",
-                "x": 656,
+                "x": 632,
                 "y": 16
             },
             {
                 "type": "darkTile",
-                "x": 416,
+                "x": 408,
                 "y": 16
             },
             {
                 "type": "darkTile",
-                "x": 728,
+                "x": 40,
                 "y": 16
             },
             {
                 "type": "darkTile",
-                "x": 544,
+                "x": 680,
                 "y": 16
             },
             {
                 "type": "darkTile",
-                "x": 592,
+                "x": 248,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 552,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 496,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 736,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 104,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 288,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 8,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 488,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 120,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 624,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 128,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 360,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 432,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 616,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 464,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 184,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 344,
                 "y": 16
             },
             {
@@ -11319,157 +13739,17 @@ module.exports = [
             },
             {
                 "type": "darkTile",
-                "x": 160,
+                "x": 416,
                 "y": 16
             },
             {
                 "type": "darkTile",
-                "x": 8,
+                "x": 280,
                 "y": 16
             },
             {
                 "type": "darkTile",
-                "x": 752,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 200,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 536,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 144,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 448,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 616,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 456,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 704,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 744,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 104,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 632,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 304,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 312,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 216,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 696,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 560,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 664,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 624,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 736,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 240,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 72,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 464,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 600,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 424,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 360,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 472,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 712,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 256,
+                "x": 776,
                 "y": 16
             },
             {
@@ -11479,12 +13759,52 @@ module.exports = [
             },
             {
                 "type": "darkTile",
-                "x": 320,
+                "x": 424,
                 "y": 16
             },
             {
                 "type": "darkTile",
-                "x": 440,
+                "x": 712,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 728,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 216,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 544,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 656,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 400,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 480,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 312,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 296,
                 "y": 16
             },
             {
@@ -11494,32 +13814,12 @@ module.exports = [
             },
             {
                 "type": "darkTile",
-                "x": 376,
+                "x": 72,
                 "y": 16
             },
             {
                 "type": "darkTile",
-                "x": 720,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 264,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 568,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 528,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 112,
+                "x": 32,
                 "y": 16
             },
             {
@@ -11529,27 +13829,77 @@ module.exports = [
             },
             {
                 "type": "darkTile",
-                "x": 288,
+                "x": 256,
                 "y": 16
             },
             {
                 "type": "darkTile",
-                "x": 496,
+                "x": 504,
                 "y": 16
             },
             {
                 "type": "darkTile",
-                "x": 24,
+                "x": 224,
                 "y": 16
             },
             {
                 "type": "darkTile",
-                "x": 488,
+                "x": 768,
                 "y": 16
             },
             {
                 "type": "darkTile",
-                "x": 688,
+                "x": 384,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 96,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 672,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 392,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 176,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 664,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 304,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 560,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 512,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 352,
                 "y": 16
             },
             {
@@ -11559,17 +13909,12 @@ module.exports = [
             },
             {
                 "type": "darkTile",
-                "x": 408,
+                "x": 320,
                 "y": 16
             },
             {
                 "type": "darkTile",
-                "x": 208,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 128,
+                "x": 160,
                 "y": 16
             },
             {
@@ -11584,122 +13929,12 @@ module.exports = [
             },
             {
                 "type": "darkTile",
-                "x": 296,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 776,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 648,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 280,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 504,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 384,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 184,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 136,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 552,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 88,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 680,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 176,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 96,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 120,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 392,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 192,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
                 "x": 640,
                 "y": 16
             },
             {
                 "type": "darkTile",
-                "x": 272,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 368,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 480,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 352,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 40,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 48,
-                "y": 16
-            },
-            {
-                "type": "darkTile",
-                "x": 32,
+                "x": 688,
                 "y": 16
             },
             {
@@ -11709,12 +13944,147 @@ module.exports = [
             },
             {
                 "type": "darkTile",
-                "x": 752,
-                "y": 8
+                "x": 528,
+                "y": 16
             },
             {
                 "type": "darkTile",
                 "x": 24,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 136,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 264,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 112,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 744,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 368,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 208,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 720,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 456,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 200,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 192,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 336,
+                "y": 16
+            },
+            {
+                "type": "darkTile",
+                "x": 368,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 240,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 512,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 544,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 136,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 536,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 632,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 504,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 288,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 72,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 16,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 584,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 424,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 784,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 160,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 752,
                 "y": 8
             },
             {
@@ -11859,7 +14229,7 @@ module.exports = [
             },
             {
                 "type": "darkTile",
-                "x": 64,
+                "x": 448,
                 "y": 8
             },
             {
@@ -11880,176 +14250,6 @@ module.exports = [
             {
                 "type": "darkTile",
                 "x": 312,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 240,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 512,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 544,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 136,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 536,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 632,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 504,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 288,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 72,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 16,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 584,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 424,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 784,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 160,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 448,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 560,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 552,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 520,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 680,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 496,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 272,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 480,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 456,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 432,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 464,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 488,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 416,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 440,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 400,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 32,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 88,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 344,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 368,
-                "y": 8
-            },
-            {
-                "type": "darkTile",
-                "x": 360,
                 "y": 8
             },
             {
@@ -12195,6 +14395,106 @@ module.exports = [
             {
                 "type": "darkTile",
                 "x": 576,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 24,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 560,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 552,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 520,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 680,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 496,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 272,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 480,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 456,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 432,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 464,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 488,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 416,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 440,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 400,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 32,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 88,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 344,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 64,
+                "y": 8
+            },
+            {
+                "type": "darkTile",
+                "x": 360,
                 "y": 8
             },
             {

@@ -2,6 +2,7 @@
 
 var levels = require("./levels");
 var Splat = require("splatjs");
+//var physics = require("./physics")
 var canvas = document.getElementById("canvas");
 
 var manifest = {
@@ -27,9 +28,10 @@ var manifest = {
 
 
 var game = new Splat.Game(canvas, manifest);
-var blockSize = 8;
+var currentLevel = 0;
 
 function buildLevel(level, scene) {
+	var blockSize = 8;
 	scene.blocks = [];
 	for (var i = 0; i < level.objects.length; i++) {
 		var obj = level.objects[i];
@@ -48,12 +50,6 @@ function buildLevel(level, scene) {
 	}
 	scene.blocks = sortEntities(scene.blocks);
 }
-
-
-
-
-var currentLevel = 0;
-
 var debug = false;
 function draw(context, entity, color) {
 	entity.draw(context);
@@ -68,8 +64,70 @@ function draw(context, entity, color) {
 		context.strokeRect(entity.x, entity.y, entity.width, entity.height);
 	}
 }
+var isJumpable = true;
+function applyPhysics(object,time){
+	var gravityAccel = 0.003;
+	var jumpSpeed = -0.08;
+	var moveForce = 0.05;
+	//var minJump = -0.3;
+	var frictionFactor = 0.8;
+	var maxVelocity = 1.0;
+	//var oldY = object.x;
+	//var oldY = object.y;
+
+	isPlayerAddingForce( object, jumpSpeed, isJumpable, moveForce,maxVelocity);
+	applyGravity(object,gravityAccel,frictionFactor,time);
+	moveObject(object,time);
+	resolveCollisions(object);
+}
+function isPlayerAddingForce( object, jumpSpeed, isJumpable,moveForce, mv){
+	if (game.keyboard.isPressed("left") && object.vx>-mv){
+		object.vx -=moveForce;
+	}
+	if (game.keyboard.isPressed("right") && object.vx<mv){
+		object.vx+=moveForce;
+	}
+	if (game.keyboard.isPressed("space") && isJumpable){
+		object.vy+=jumpSpeed;
+		
+	}
+}
+function applyGravity(object, gravity,frictionFactor, time){
+	object.vy += gravity*time;
+	if(true){//is grounded
+		if (object.vx > 0.01){
+			//frictionFactor = frictionFactor*-1;
+			object.vx =  object.vx *frictionFactor;
+		}else if (object.vx < -0.01){
+			//frictionFactor = frictionFactor * 1;
+			object.vx =  object.vx *frictionFactor;
+		}else{
+			object.vx = 0;
+		}
+	}
+}
+function moveObject(object, time){
+	
+	object.move(time);
+}
+///////////////////////////////////////////////////////only set to resolve bottom and side of screen collision at the moment
+function resolveCollisions(object){
+ if (object.y +object.height> 640){
+ 	object.y = 640-object.height;
+ 	object.vy = 0;
+ 	isJumpable = true;
+ 	console.log("vx: " + object.vx, "vy: " + object.vy);
+ }
+ if (object.x < 0){
+ 	object.x = 1;
+ }
+}
+
+
+
 
 var currentLevel = 1;
+
 
 game.scenes.add("title", new Splat.Scene(canvas, function() {
 	this.timers.expire = new Splat.Timer(undefined, 2000, function() {
@@ -86,7 +144,7 @@ game.scenes.add("title", new Splat.Scene(canvas, function() {
 	context.drawImage(gdl, (canvas.width / 2) - (gdl.width / 2), (canvas.height / 2) - (gdl.height / 2));
 }));
 
-game.scenes.add("main", new Splat.Scene(canvas, function() {
+game.scenes.add("main", new Splat.Scene(canvas, function() {//init
 	
 	this.hitGoal = false;
 	this.touched = 0;
@@ -100,8 +158,12 @@ game.scenes.add("main", new Splat.Scene(canvas, function() {
 
 	buildLevel(levels[currentLevel], this);
 
+	var playerImage = game.images.get("player");
+	this.player = new Splat.AnimatedEntity(100,100,playerImage.width ,playerImage.height, playerImage,0,0);
+
 }, function(elapsedMillis) {
 	// simulation
+	var me = this.player;
 
 	this.spawn.move(elapsedMillis);
 	this.goal.move(elapsedMillis);	
@@ -110,10 +172,11 @@ game.scenes.add("main", new Splat.Scene(canvas, function() {
 	if (game.keyboard.consumePressed("r")) {
 		game.scenes.switchTo("main");
 	}
-
+	applyPhysics(me, elapsedMillis );
 }, function(context) {
 	var gdl = game.images.get("parchment");
 	context.drawImage(gdl, (canvas.width / 2) - (gdl.width / 2), (canvas.height / 2) - (gdl.height / 2));
+	
 
 	// draw
 	//context.drawImage(game.images.get("background"), 0, -canvas.height);
@@ -125,6 +188,7 @@ game.scenes.add("main", new Splat.Scene(canvas, function() {
 
 	draw(context, this.spawn, "green");
 	draw(context, this.goal, "green");
+	draw(context,this.player,"green");
 }));
 
 function sortEntities(entities) {
