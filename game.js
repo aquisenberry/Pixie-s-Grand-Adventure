@@ -14,6 +14,10 @@ var manifest = {
 		"brightTile":"img/mmBrightTile.png",
 		"trigger": "img/mmTrigger.png",
 		"effect": "img/mmEffect.png",
+		"triggerI": "img/mmTrigger_inactive.png",
+		"effectI": "img/mmEffect_Inactive.png",
+		"triggerA": "img/mmTrigger_Active.png",
+		"effectA": "img/mmEffect_active.png",
 		"darkTile":"img/mmdarkTile.png",
 		"gamedevlou": "img/gamedevlou.png",
 		"parchment": "img/parchment.png"
@@ -172,6 +176,20 @@ function resolveCollisions(object,blocks){
  }
 }
 
+function checkTriggers(player,triggers){
+	for(var i = 0; i<triggers.length;i++){
+		var trigger = triggers[i];
+		if (!trigger.didCollideWithPlayer && trigger.collides(player)){
+			trigger.active = !trigger.active;
+			trigger.didCollideWithPlayer = true;
+		}
+		if (trigger.didCollideWithPlayer && !trigger.collides(player)){
+			trigger.didCollideWithPlayer = false;
+		}
+	}
+
+}
+
 
 
 
@@ -201,15 +219,31 @@ game.scenes.add("main", new Splat.Scene(canvas, function() {//init
 
 	var doorway = game.images.get("spawn");
 	this.spawn = new Splat.AnimatedEntity(0, 0, doorway.width, doorway.height, doorway, 0, 0); 
-	var triggerInactive = game.images.get("trigger");
+	var triggerInactive = game.images.get("triggerI");
 	this.triggerA = new Splat.AnimatedEntity(0, 0, triggerInactive.width, triggerInactive.height, triggerInactive, 0, 0); 
 	this.triggerB = new Splat.AnimatedEntity(0, 0, triggerInactive.width, triggerInactive.height, triggerInactive, 0, 0); 
 	this.triggerC = new Splat.AnimatedEntity(0, 0, triggerInactive.width, triggerInactive.height, triggerInactive, 0, 0); 
 	this.triggerD = new Splat.AnimatedEntity(0, 0, triggerInactive.width, triggerInactive.height, triggerInactive, 0, 0); 
 	this.triggerE = new Splat.AnimatedEntity(0, 0, triggerInactive.width, triggerInactive.height, triggerInactive, 0, 0); 
 	this.triggerF = new Splat.AnimatedEntity(0, 0, triggerInactive.width, triggerInactive.height, triggerInactive, 0, 0);
+	this.triggerA.active = false;
+	this.triggerB.active = false;
+	this.triggerC.active = false;
+	this.triggerD.active = false;
+	this.triggerE.active = false;
+	this.triggerF.active = false;
+	var drawTrigger = function(context){
+		var image = game.images.get(this.active?"triggerA":"triggerI");
+		context.drawImage(image,this.x,this.y);
+	};
+	this.triggerA.draw = drawTrigger;
+	this.triggerB.draw = drawTrigger;
+	this.triggerC.draw = drawTrigger;
+	this.triggerD.draw = drawTrigger;
+	this.triggerE.draw = drawTrigger;
+	this.triggerF.draw = drawTrigger;
 
-	var effectInactive = game.images.get("effect");
+	var effectInactive = game.images.get("effectI");
 	this.effectA = new Splat.AnimatedEntity(0, 0, effectInactive.width, effectInactive.height, effectInactive, 0, 0); 
 	this.effectB = new Splat.AnimatedEntity(0, 0, effectInactive.width, effectInactive.height, effectInactive, 0, 0); 
 	this.effectC = new Splat.AnimatedEntity(0, 0, effectInactive.width, effectInactive.height, effectInactive, 0, 0); 
@@ -235,7 +269,15 @@ game.scenes.add("main", new Splat.Scene(canvas, function() {//init
 	if (game.keyboard.consumePressed("r")) {
 		game.scenes.switchTo("main");
 	}
+	var triggers = [
+	this.triggerA,
+	this.triggerB,
+	this.triggerC,
+	this.triggerD,
+	this.triggerE,
+	this.triggerF];
 	applyPhysics(me, this.blocks, elapsedMillis );
+	checkTriggers(me,triggers);
 }, function(context) {
 	var gdl = game.images.get("parchment");
 	context.drawImage(gdl, (canvas.width / 2) - (gdl.width / 2), (canvas.height / 2) - (gdl.height / 2));
