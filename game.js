@@ -41,11 +41,51 @@ function buildLevel(level, scene) {
 			scene.goal.x = obj.x;
 			scene.goal.y = obj.y;
 		} 
-		/*else if (obj.type === "effect") {
-			scene.goal.x = obj.x;
-			scene.goal.y = obj.y;
+		else if (obj.type === "effect-a") {
+			scene.effectA.x = obj.x;
+			scene.effectA.y = obj.y;
 		} 
-		else if (obj.type === "goal") {
+		else if (obj.type === "effect-b") {
+			scene.effectB.x = obj.x;
+			scene.effectB.y = obj.y;
+		} 
+		else if (obj.type === "effect-c") {
+			scene.effectC.x = obj.x;
+			scene.effectC.y = obj.y;
+		} 
+		else if (obj.type === "effect-d") {
+			scene.effectD.x = obj.x;
+			scene.effectD.y = obj.y;
+		} 
+		else if (obj.type === "effect-e") {
+			scene.effectE.x = obj.x;
+			scene.effectE.y = obj.y;
+		}
+		else if (obj.type === "trigger-a") {
+			scene.triggerA.x = obj.x;
+			scene.triggerA.y = obj.y;
+		} 
+		else if (obj.type === "trigger-b") {
+			scene.triggerB.x = obj.x;
+			scene.triggerB.y = obj.y;
+		} 
+		else if (obj.type === "trigger-c") {
+			scene.triggerC.x = obj.x;
+			scene.triggerC.y = obj.y;
+		} 
+		else if (obj.type === "trigger-d") {
+			scene.triggerD.x = obj.x;
+			scene.triggerD.y = obj.y;
+		} 
+		else if (obj.type === "trigger-e") {
+			scene.triggerE.x = obj.x;
+			scene.triggerE.y = obj.y;
+		} 
+		else if (obj.type === "trigger-f") {
+			scene.triggerF.x = obj.x;
+			scene.triggerF.y = obj.y;
+		}
+		/*else if (obj.type === "goal") {
 			scene.goal.x = obj.x;
 			scene.goal.y = obj.y;
 		} */
@@ -120,9 +160,7 @@ function moveObject(object, time){
 }
 ///////////////////////////////////////////////////////only set to resolve bottom of screen collision at the moment
 function resolveCollisions(object,blocks){
- console.log("made it here");
 	object.solveCollisions(blocks);
-	blocks = blocks;
  if (object.y +object.height> 640){
  	object.y = 640-object.height;
  	object.vy = 0;
@@ -163,6 +201,20 @@ game.scenes.add("main", new Splat.Scene(canvas, function() {//init
 
 	var doorway = game.images.get("spawn");
 	this.spawn = new Splat.AnimatedEntity(0, 0, doorway.width, doorway.height, doorway, 0, 0); 
+	var triggerInactive = game.images.get("trigger");
+	this.triggerA = new Splat.AnimatedEntity(0, 0, triggerInactive.width, triggerInactive.height, triggerInactive, 0, 0); 
+	this.triggerB = new Splat.AnimatedEntity(0, 0, triggerInactive.width, triggerInactive.height, triggerInactive, 0, 0); 
+	this.triggerC = new Splat.AnimatedEntity(0, 0, triggerInactive.width, triggerInactive.height, triggerInactive, 0, 0); 
+	this.triggerD = new Splat.AnimatedEntity(0, 0, triggerInactive.width, triggerInactive.height, triggerInactive, 0, 0); 
+	this.triggerE = new Splat.AnimatedEntity(0, 0, triggerInactive.width, triggerInactive.height, triggerInactive, 0, 0); 
+	this.triggerF = new Splat.AnimatedEntity(0, 0, triggerInactive.width, triggerInactive.height, triggerInactive, 0, 0);
+
+	var effectInactive = game.images.get("effect");
+	this.effectA = new Splat.AnimatedEntity(0, 0, effectInactive.width, effectInactive.height, effectInactive, 0, 0); 
+	this.effectB = new Splat.AnimatedEntity(0, 0, effectInactive.width, effectInactive.height, effectInactive, 0, 0); 
+	this.effectC = new Splat.AnimatedEntity(0, 0, effectInactive.width, effectInactive.height, effectInactive, 0, 0); 
+	this.effectD = new Splat.AnimatedEntity(0, 0, effectInactive.width, effectInactive.height, effectInactive, 0, 0); 
+	this.effectE = new Splat.AnimatedEntity(0, 0, effectInactive.width, effectInactive.height, effectInactive, 0, 0); 
 
 	var goal = game.images.get("goal");
 	this.goal = new Splat.AnimatedEntity(0, 0, goal.width, goal.height, goal, 0, 0);
@@ -199,8 +251,21 @@ game.scenes.add("main", new Splat.Scene(canvas, function() {//init
 
 	draw(context, this.spawn, "green");
 	draw(context, this.goal, "green");
-	draw(context,this.player,"green");
+	draw(context,this.effectA,"green");
+	draw(context,this.effectB,"green");
+	draw(context,this.effectC,"green");
+	draw(context,this.effectD,"green");
+	draw(context,this.effectE,"green");
+	draw(context,this.triggerA,"green");
+	draw(context,this.triggerB,"green");
+	draw(context,this.triggerC,"green");
+	draw(context,this.triggerD,"green");
+	draw(context,this.triggerE,"green");
+	draw(context,this.triggerF,"green");
+	draw(context, this.player, "green");
+
 }));
+
 
 function sortEntities(entities) {
 	return entities.sort(function(a, b) {

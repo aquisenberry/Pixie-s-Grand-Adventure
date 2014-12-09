@@ -4673,7 +4673,7 @@ module.exports = [
                 "y": 616
             },
             {
-                "type": "trigger",
+                "type": "trigger-a",
                 "x": 760,
                 "y": 616
             },
@@ -5698,7 +5698,7 @@ module.exports = [
                 "y": 528
             },
             {
-                "type": "trigger",
+                "type": "trigger-b",
                 "x": 64,
                 "y": 528
             },
@@ -8028,7 +8028,7 @@ module.exports = [
                 "y": 336
             },
             {
-                "type": "trigger",
+                "type": "trigger-c",
                 "x": 720,
                 "y": 336
             },
@@ -9663,7 +9663,7 @@ module.exports = [
                 "y": 248
             },
             {
-                "type": "trigger",
+                "type": "trigger-e",
                 "x": 160,
                 "y": 248
             },
@@ -9723,7 +9723,7 @@ module.exports = [
                 "y": 240
             },
             {
-                "type": "trigger",
+                "type": "trigger-f",
                 "x": 440,
                 "y": 240
             },
@@ -11603,7 +11603,7 @@ module.exports = [
                 "y": 136
             },
             {
-                "type": "trigger",
+                "type": "trigger-d",
                 "x": 64,
                 "y": 136
             },
@@ -12803,7 +12803,7 @@ module.exports = [
                 "y": 80
             },
             {
-                "type": "effect",
+                "type": "effect-a",
                 "x": 560,
                 "y": 80
             },
@@ -12818,22 +12818,22 @@ module.exports = [
                 "y": 80
             },
             {
-                "type": "effect",
+                "type": "effect-b",
                 "x": 448,
                 "y": 80
             },
             {
-                "type": "effect",
+                "type": "effect-c",
                 "x": 608,
                 "y": 80
             },
             {
-                "type": "effect",
+                "type": "effect-e",
                 "x": 504,
                 "y": 80
             },
             {
-                "type": "effect",
+                "type": "effect-d",
                 "x": 400,
                 "y": 80
             },
