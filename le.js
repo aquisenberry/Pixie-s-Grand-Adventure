@@ -298,7 +298,7 @@ game.scenes.add("main", new Splat.Scene(canvas, function() {
 				context.drawImage(img, 30, 30);
 			}
 		});
-context = context;
+//context = context;
 	}
 }));
 

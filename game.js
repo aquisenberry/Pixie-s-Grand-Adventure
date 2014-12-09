@@ -41,7 +41,16 @@ function buildLevel(level, scene) {
 		} else if (obj.type === "goal") {
 			scene.goal.x = obj.x;
 			scene.goal.y = obj.y;
-		} else {
+		} 
+		/*else if (obj.type === "effect") {
+			scene.goal.x = obj.x;
+			scene.goal.y = obj.y;
+		} 
+		else if (obj.type === "goal") {
+			scene.goal.x = obj.x;
+			scene.goal.y = obj.y;
+		} */
+		else {
 			var img = game.images.get(obj.type);
 			var block = new Splat.AnimatedEntity(obj.x, obj.y, blockSize, blockSize, img, 0, 0);
 			block.type = obj.type;
@@ -65,7 +74,7 @@ function draw(context, entity, color) {
 	}
 }
 var isJumpable = true;
-function applyPhysics(object,time){
+function applyPhysics(object, blocks,time){
 	var gravityAccel = 0.003;
 	var jumpSpeed = -0.08;
 	var moveForce = 0.05;
@@ -78,7 +87,7 @@ function applyPhysics(object,time){
 	isPlayerAddingForce( object, jumpSpeed, isJumpable, moveForce,maxVelocity);
 	applyGravity(object,gravityAccel,frictionFactor,time);
 	moveObject(object,time);
-	resolveCollisions(object);
+	resolveCollisions(object, blocks);
 }
 function isPlayerAddingForce( object, jumpSpeed, isJumpable,moveForce, mv){
 	if (game.keyboard.isPressed("left") && object.vx>-mv){
@@ -110,13 +119,16 @@ function moveObject(object, time){
 	
 	object.move(time);
 }
-///////////////////////////////////////////////////////only set to resolve bottom and side of screen collision at the moment
-function resolveCollisions(object){
+///////////////////////////////////////////////////////only set to resolve bottom of screen collision at the moment
+function resolveCollisions(object,blocks){
+ console.log("made it here");
+	object.solveCollisions(blocks);
+	blocks = blocks;
  if (object.y +object.height> 640){
  	object.y = 640-object.height;
  	object.vy = 0;
  	isJumpable = true;
- 	console.log("vx: " + object.vx, "vy: " + object.vy);
+ 	//console.log("vx: " + object.vx, "vy: " + object.vy);
  }
  if (object.x < 0){
  	object.x = 1;
@@ -159,7 +171,7 @@ game.scenes.add("main", new Splat.Scene(canvas, function() {//init
 	buildLevel(levels[currentLevel], this);
 
 	var playerImage = game.images.get("player");
-	this.player = new Splat.AnimatedEntity(100,100,playerImage.width ,playerImage.height, playerImage,0,0);
+	this.player = new Splat.AnimatedEntity(this.spawn.x + playerImage.width,this.spawn.y - 5,playerImage.width ,playerImage.height, playerImage,0,0);
 
 }, function(elapsedMillis) {
 	// simulation
@@ -172,7 +184,7 @@ game.scenes.add("main", new Splat.Scene(canvas, function() {//init
 	if (game.keyboard.consumePressed("r")) {
 		game.scenes.switchTo("main");
 	}
-	applyPhysics(me, elapsedMillis );
+	applyPhysics(me, this.blocks, elapsedMillis );
 }, function(context) {
 	var gdl = game.images.get("parchment");
 	context.drawImage(gdl, (canvas.width / 2) - (gdl.width / 2), (canvas.height / 2) - (gdl.height / 2));
