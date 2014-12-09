@@ -31,7 +31,6 @@ var game = new Splat.Game(canvas, manifest);
 var currentLevel = 0;
 
 function buildLevel(level, scene) {
-	var blockSize = 8;
 	scene.blocks = [];
 	for (var i = 0; i < level.objects.length; i++) {
 		var obj = level.objects[i];
@@ -52,7 +51,7 @@ function buildLevel(level, scene) {
 		} */
 		else {
 			var img = game.images.get(obj.type);
-			var block = new Splat.AnimatedEntity(obj.x, obj.y, blockSize, blockSize, img, 0, 0);
+			var block = new Splat.AnimatedEntity(obj.x, obj.y, img.width, img.height, img, 0, 0);
 			block.type = obj.type;
 			scene.blocks.push(block);
 		}
@@ -163,7 +162,7 @@ game.scenes.add("main", new Splat.Scene(canvas, function() {//init
 
 
 	var doorway = game.images.get("spawn");
-	this.spawn = new Splat.AnimatedEntity(0, 0, doorway.width, doorway.height, doorway, 0, 0);
+	this.spawn = new Splat.AnimatedEntity(0, 0, doorway.width, doorway.height, doorway, 0, 0); 
 
 	var goal = game.images.get("goal");
 	this.goal = new Splat.AnimatedEntity(0, 0, goal.width, goal.height, goal, 0, 0);
